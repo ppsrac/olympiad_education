@@ -1,0 +1,3573 @@
+HIP	RA	DEC	Bayer	Cst
+443	0	0	     	Psc
+476	0	0	     	Peg
+531	0	0	     	Cas
+635	0	0	     	Cet
+664	0	0	     	Cet
+677	0	0	alf  	And
+746	0	0	bet  	Cas
+729	0	0	     	Peg
+761	0	0	kap01	Scl
+765	0	0	eps  	Phe
+813	0	0	     	Psc
+841	0	0	     	And
+814	0	0	gam03	Oct
+910	0	0	     	Cet
+930	0	0	kap02	Scl
+950	0	0	the  	Scl
+1067	0	0	gam  	Peg
+1086	0	0	     	And
+1168	0	0	chi  	Peg
+1170	0	0	     	Cet
+1196	0	0	     	Psc
+1319	0	0	     	Psc
+1366	0	0	the  	And
+1392	0	0	     	Psc
+1415	0	0	AO   	Cas
+1473	0	0	sig  	And
+1501	0	0	     	And
+1562	0	0	iot  	Cet
+1595	0	0	     	Psc
+1599	0	0	zet  	Tuc
+1645	0	0	d    	Psc
+1686	0	0	rho  	And
+1647	0	0	pi.  	Tuc
+1708	0	0	iot  	Scl
+1728	0	0	T    	Cet
+1772	0	0	     	Psc
+1803	0	0	     	Cet
+1960	0	0	     	Cas
+1902	0	0	ksi  	Tuc
+2006	0	0	     	Psc
+2025	0	0	     	Psc
+2021	0	0	bet  	Hyi
+2081	0	0	alf  	Phe
+2072	0	0	kap  	Phe
+2100	0	0	     	Cet
+2213	0	0	     	Psc
+2219	0	0	TV   	Psc
+2210	0	0	eta  	Scl
+2224	0	0	     	Psc
+2355	0	0	     	And
+2353	0	0	     	Cet
+2474	0	0	     	Cas
+2505	0	0	lam  	Cas
+2472	0	0	lam01	Phe
+2484	0	0	bet01	Tuc
+2487	0	0	bet02	Tuc
+2599	0	0	kap  	Cas
+2568	0	0	     	Psc
+2548	0	0	     	Psc
+2578	0	0	bet03	Tuc
+2707	0	0	     	Cas
+2629	0	0	the  	Tuc
+2762	0	0	     	Cet
+2787	0	0	     	Cet
+2802	0	0	lam02	Phe
+2920	0	0	zet  	Cas
+2912	0	0	pi.  	And
+2903	0	0	     	Psc
+2994	0	0	     	Cet
+3031	0	0	eps  	And
+3092	0	0	del  	And
+3093	0	0	     	Psc
+3138	0	0	     	Psc
+3179	0	0	alf  	Cas
+3231	0	0	     	And
+3300	0	0	ksi  	Cas
+3245	0	0	mu.  	Phe
+3277	0	0	ksi  	Phe
+3414	0	0	pi.  	Cas
+3356	0	0	lam01	Scl
+3330	0	0	rho  	Tuc
+3419	0	0	bet  	Cet
+3478	0	0	     	Cas
+3405	0	0	eta  	Phe
+3572	0	0	YZ   	Cas
+3504	0	0	omi  	Cas
+3455	0	0	phi01	Cet
+3456	0	0	lam02	Scl
+3559	0	0	     	Cet
+3721	0	0	     	Cas
+3632	0	0	     	Psc
+3675	0	0	     	Psc
+3685	0	0	     	Psc
+3693	0	0	zet  	And
+3697	0	0	     	Psc
+3730	0	0	     	Psc
+3821	0	0	eta  	Cas
+3760	0	0	     	Psc
+3801	0	0	nu.  	Cas
+3786	0	0	del  	Psc
+3810	0	0	     	Psc
+3881	0	0	nu.  	And
+3885	0	0	i    	Psc
+3909	0	0	phi02	Cet
+3781	0	0	lam  	Hyi
+3949	0	0	rho  	Phe
+4147	0	0	     	Cet
+4084	0	0	lam01	Tuc
+4292	0	0	ups01	Cas
+4267	0	0	     	Psc
+4257	0	0	     	Cet
+4288	0	0	     	And
+4366	0	0	k    	Psc
+4427	0	0	gam  	Cas
+4422	0	0	ups02	Cas
+4371	0	0	phi03	Cet
+4436	0	0	mu.  	And
+4293	0	0	lam02	Tuc
+4463	0	0	eta  	And
+4510	0	0	h    	Psc
+4843	0	0	ups  	Cep
+4587	0	0	phi04	Cet
+4577	0	0	alf  	Scl
+5372	0	0	     	UMi
+4770	0	0	ksi  	Scl
+4903	0	0	     	And
+4889	0	0	sig  	Psc
+4852	0	0	sig  	Scl
+4906	0	0	eps  	Psc
+4829	0	0	ome  	Phe
+4914	0	0	     	Cet
+4979	0	0	     	Cet
+5074	0	0	     	Psc
+5081	0	0	     	Psc
+5131	0	0	psi01	Psc
+5132	0	0	psi01	Psc
+5175	0	0	     	Psc
+5141	0	0	     	Psc
+5144	0	0	     	Psc
+5121	0	0	     	Cet
+5164	0	0	     	Cet
+5204	0	0	     	Psc
+5336	0	0	mu.  	Cas
+5165	0	0	bet  	Phe
+5317	0	0	     	And
+5319	0	0	     	Psc
+5310	0	0	psi02	Psc
+5296	0	0	     	Cet
+5315	0	0	     	Cet
+5346	0	0	e    	Psc
+5300	0	0	ups  	Phe
+5268	0	0	iot  	Tuc
+5364	0	0	eta  	Cet
+5434	0	0	phi  	And
+5518	0	0	     	Cas
+5447	0	0	bet  	And
+5348	0	0	zet  	Phe
+5454	0	0	psi03	Psc
+5493	0	0	     	And
+5542	0	0	the  	Cas
+5589	0	0	     	Cas
+5485	0	0	     	Cet
+5510	0	0	     	Cet
+5550	0	0	     	And
+5544	0	0	g    	Psc
+5571	0	0	chi  	Psc
+5586	0	0	tau  	Psc
+5594	0	0	     	Cet
+5646	0	0	     	Cet
+5742	0	0	phi  	Psc
+5737	0	0	zet  	Psc
+5743	0	0	zet  	Psc
+5778	0	0	     	Psc
+5799	0	0	     	Cet
+5824	0	0	     	Psc
+5833	0	0	     	Cet
+5862	0	0	nu	Phe
+5951	0	0	     	Cet
+5985	0	0	     	Cet
+      	0	0	S    	Cas
+5896	0	0	kap  	Tuc
+6061	0	0	f    	Psc
+6242	0	0	phi  	Cas
+6193	0	0	ups  	Psc
+6312	0	0	     	Cas
+6226	0	0	     	Cet
+6315	0	0	l    	Psc
+6411	0	0	ksi  	And
+6429	0	0	     	Cet
+6514	0	0	     	And
+6692	0	0	psi  	Cas
+6539	0	0	     	Cet
+6537	0	0	the  	Cet
+6686	0	0	del  	Cas
+6670	0	0	     	Cet
+6706	0	0	rho  	Psc
+6732	0	0	     	Psc
+6813	0	0	ome  	And
+6748	0	0	     	Cet
+6815	0	0	     	Psc
+6759	0	0	R    	Scl
+11767	0	0	alf  	UMi
+7078	0	0	     	Cas
+6867	0	0	gam  	Phe
+6999	0	0	A    	And
+6981	0	0	     	Psc
+6960	0	0	     	Cet
+7007	0	0	mu.  	Psc
+7097	0	0	eta  	Psc
+7083	0	0	del  	Phe
+7294	0	0	chi  	Cas
+7364	0	0	     	Psc
+7345	0	0	     	Cet
+7436	0	0	     	Psc
+7650	0	0	     	Cas
+7513	0	0	ups  	And
+7450	0	0	     	Cet
+7463	0	0	tau  	Scl
+7535	0	0	pi.  	Psc
+7607	0	0	     	And
+7719	0	0	chi  	And
+7710	0	0	     	Psc
+7588	0	0	alf  	Eri
+7740	0	0	     	Psc
+7818	0	0	tau  	And
+7965	0	0	     	Cas
+8016	0	0	     	Cas
+7751	0	0	p    	Eri
+7884	0	0	nu.  	Psc
+8046	0	0	     	Cas
+7981	0	0	     	Psc
+8068	0	0	phi  	Per
+7955	0	0	pi.  	Scl
+7978	0	0	q01  	Eri
+8159	0	0	     	Psc
+8102	0	0	tau  	Cet
+8198	0	0	omi  	Psc
+8209	0	0	eps  	Scl
+8271	0	0	     	Ari
+7879	0	0	tau01	Hyi
+8240	0	0	     	Phe
+8241	0	0	q02  	Eri
+8387	0	0	     	Ari
+8544	0	0	     	Ari
+8497	0	0	chi  	Cet
+8704	0	0	     	Per
+8588	0	0	     	Cet
+8714	0	0	     	Per
+8645	0	0	zet  	Cet
+8886	0	0	eps  	Cas
+8814	0	0	     	And
+8796	0	0	alf  	Tri
+8832	0	0	gam01	Ari
+9009	0	0	ome  	Cas
+8833	0	0	ksi  	Psc
+8366	0	0	tau02	Hyi
+8903	0	0	bet  	Ari
+8837	0	0	psi  	Phe
+8751	0	0	eta01	Hyi
+9021	0	0	     	And
+8882	0	0	phi  	Phe
+8993	0	0	     	Ari
+9110	0	0	iot  	Ari
+9061	0	0	     	Cet
+9007	0	0	chi  	Eri
+9222	0	0	     	Per
+9153	0	0	lam  	Ari
+8928	0	0	eta02	Hyi
+9165	0	0	     	Cet
+9155	0	0	     	Cet
+9480	0	0	A    	Cas
+9383	0	0	chi  	Tri
+9598	0	0	     	Cas
+9727	0	0	     	Cas
+9353	0	0	     	Psc
+9326	0	0	     	Cet
+9347	0	0	ups  	Cet
+9564	0	0	     	Cas
+9573	0	0	     	Cas
+9505	0	0	g    	Per
+9236	0	0	alf  	Hyi
+9763	0	0	     	Cas
+8991	0	0	sig  	Hyi
+9440	0	0	pi.  	For
+9487	0	0	alf  	Psc
+9570	0	0	eps  	Tri
+9459	0	0	chi  	Phe
+9640	0	0	gam01	And
+9621	0	0	     	Ari
+9589	0	0	     	Cet
+9631	0	0	     	Cet
+9677	0	0	nu.  	For
+10031	0	0	     	Cas
+9836	0	0	kap  	Ari
+9859	0	0	     	Ari
+9884	0	0	alf  	Ari
+9977	0	0	     	And
+10064	0	0	bet  	Tri
+10053	0	0	     	Ari
+10227	0	0	     	Per
+10176	0	0	     	And
+10180	0	0	     	And
+10155	0	0	     	Ari
+10203	0	0	     	Ari
+10220	0	0	     	Tri
+10212	0	0	     	Cet
+10234	0	0	     	Cet
+10438	0	0	     	Cas
+10280	0	0	     	Tri
+10340	0	0	b    	And
+10366	0	0	     	Per
+10306	0	0	eta  	Ari
+10328	0	0	     	Ari
+10324	0	0	ksi01	Cet
+10305	0	0	     	Cet
+10320	0	0	mu.  	For
+10559	0	0	     	Tri
+10540	0	0	     	Ari
+10535	0	0	     	Ari
+10644	0	0	del  	Tri
+10718	0	0	     	Per
+10729	0	0	chi  	Per
+10670	0	0	gam  	Tri
+10642	0	0	     	Cet
+10418	0	0	pi.01	Hyi
+10732	0	0	the  	Ari
+10819	0	0	c    	And
+10602	0	0	phi  	Eri
+10793	0	0	     	Tri
+10513	0	0	pi.02	Hyi
+10826	0	0	omi  	Cet
+10944	0	0	     	And
+11060	0	0	i    	Per
+11021	0	0	     	Cet
+11046	0	0	     	Cet
+11220	0	0	     	And
+11072	0	0	kap  	For
+11279	0	0	     	Per
+11313	0	0	     	And
+11249	0	0	ksi  	Ari
+11261	0	0	     	Cet
+11001	0	0	del  	Hyi
+11569	0	0	iot  	Cas
+11345	0	0	rho  	Cet
+11465	0	0	     	And
+11432	0	0	     	Tri
+11427	0	0	     	Ari
+11258	0	0	lam  	Hor
+11095	0	0	kap  	Hyi
+11486	0	0	     	Tri
+11484	0	0	ksi02	Cet
+11548	0	0	     	Tri
+11407	0	0	kap  	Eri
+11477	0	0	phi  	For
+11678	0	0	     	Ari
+11698	0	0	     	Ari
+11784	0	0	     	Tri
+11791	0	0	     	Cet
+11783	0	0	sig  	Cet
+11843	0	0	     	Ari
+11867	0	0	lam01	For
+11918	0	0	ome  	For
+12086	0	0	     	Tri
+12002	0	0	     	Cet
+12048	0	0	     	Cet
+12093	0	0	nu.  	Cet
+12107	0	0	     	Cet
+12184	0	0	     	Ari
+12153	0	0	     	Ari
+12189	0	0	     	Ari
+12122	0	0	iot01	For
+12247	0	0	     	Cet
+12186	0	0	lam02	For
+12332	0	0	nu.  	Ari
+11757	0	0	mu.  	Hyi
+12288	0	0	iot02	For
+12225	0	0	eta  	Hor
+12387	0	0	del  	Cet
+12390	0	0	eps  	Cet
+12489	0	0	     	Ari
+12692	0	0	     	Per
+12623	0	0	     	Per
+12413	0	0	s    	Eri
+12530	0	0	     	Cet
+12640	0	0	mu.  	Ari
+12486	0	0	iot  	Eri
+12647	0	0	     	Cet
+12777	0	0	the  	Per
+12768	0	0	     	Per
+12719	0	0	     	Ari
+12484	0	0	zet  	Hor
+12706	0	0	gam  	Cet
+12394	0	0	eps  	Hyi
+12784	0	0	     	Ari
+12803	0	0	omi  	Ari
+12653	0	0	iot  	Hor
+12770	0	0	pi.  	Cet
+12832	0	0	     	Ari
+12828	0	0	mu.  	Cet
+13133	0	0	RZ   	Cas
+12843	0	0	tau01	Eri
+13061	0	0	     	Ari
+13108	0	0	     	Ari
+13367	0	0	SU   	Cas
+12871	0	0	gam  	Hor
+13268	0	0	eta  	Per
+13040	0	0	eta01	For
+13165	0	0	pi.  	Ari
+12876	0	0	zet  	Hyi
+13209	0	0	c    	Ari
+13254	0	0	     	Per
+13147	0	0	bet  	For
+13328	0	0	     	Per
+13197	0	0	gam01	For
+13202	0	0	gam02	For
+13327	0	0	sig  	Ari
+13225	0	0	eta02	For
+13288	0	0	tau02	Eri
+13265	0	0	eta03	For
+13141	0	0	nu.  	Hor
+13531	0	0	tau  	Per
+      	0	0	tau  	Per
+13490	0	0	     	Per
+13579	0	0	rho01	Ari
+13473	0	0	psi  	For
+13654	0	0	     	Ari
+13702	0	0	rho  	Ari
+13244	0	0	nu.  	Hyi
+13775	0	0	     	Per
+13701	0	0	eta  	Eri
+13834	0	0	     	Ari
+13879	0	0	pi.  	Per
+13905	0	0	     	Per
+13782	0	0	     	Eri
+13914	0	0	eps  	Ari
+13835	0	0	     	Eri
+13954	0	0	lam  	Cet
+13847	0	0	the01	Eri
+13951	0	0	     	Eri
+13942	0	0	zet  	For
+14040	0	0	     	Eri
+14109	0	0	     	Ari
+14060	0	0	rho01	Eri
+14150	0	0	     	Ari
+13884	0	0	bet  	Hor
+14143	0	0	     	Cet
+14135	0	0	alf  	Cet
+14086	0	0	eps  	For
+14328	0	0	gam  	Per
+14168	0	0	rho02	Eri
+14382	0	0	k    	Per
+14146	0	0	tau03	Eri
+14354	0	0	rho  	Per
+14293	0	0	rho03	Eri
+14376	0	0	     	Ari
+14240	0	0	mu.  	Hor
+14576	0	0	bet  	Per
+14632	0	0	iot  	Per
+14514	0	0	     	Ari
+14131	0	0	the  	Hyi
+14586	0	0	     	Ari
+14668	0	0	kap  	Per
+14677	0	0	     	Ari
+14817	0	0	ome  	Per
+14838	0	0	del  	Ari
+14893	0	0	     	Ari
+14915	0	0	g    	Tau
+14954	0	0	     	Cet
+14879	0	0	alf  	For
+15110	0	0	zet  	Ari
+15338	0	0	     	Per
+15197	0	0	zet  	Eri
+15404	0	0	     	Per
+15244	0	0	     	Eri
+15444	0	0	     	Per
+15383	0	0	     	Cet
+15382	0	0	     	Eri
+15514	0	0	     	Ari
+15457	0	0	kap  	Cet
+15557	0	0	     	Ari
+15648	0	0	l    	Per
+15474	0	0	tau04	Eri
+15627	0	0	tau  	Ari
+15330	0	0	zet01	Ret
+15619	0	0	     	Cet
+15510	0	0	e    	Eri
+15371	0	0	zet02	Ret
+15696	0	0	     	Ari
+15737	0	0	     	Ari
+15863	0	0	alf  	Per
+15861	0	0	     	Ari
+15201	0	0	iot  	Hyi
+15870	0	0	     	Ari
+15900	0	0	omi  	Tau
+16083	0	0	ksi  	Tau
+15987	0	0	chi01	For
+16244	0	0	     	Per
+16181	0	0	     	Ari
+16335	0	0	sig  	Per
+16112	0	0	chi02	For
+16156	0	0	chi03	For
+16322	0	0	s    	Tau
+16369	0	0	f    	Tau
+16499	0	0	     	Per
+16341	0	0	v    	Eri
+16511	0	0	t    	Tau
+16245	0	0	kap  	Ret
+16537	0	0	eps  	Eri
+16664	0	0	     	Tau
+16826	0	0	psi  	Per
+16611	0	0	tau05	Eri
+16859	0	0	     	Tau
+16803	0	0	     	Eri
+16852	0	0	     	Tau
+16870	0	0	y    	Eri
+17027	0	0	     	Eri
+17007	0	0	tau  	For
+17103	0	0	     	Tau
+17181	0	0	     	Tau
+17167	0	0	     	Eri
+17358	0	0	del  	Per
+17313	0	0	o    	Per
+17309	0	0	     	Tau
+17448	0	0	omi  	Per
+17408	0	0	     	Tau
+17304	0	0	del  	For
+17529	0	0	nu.  	Per
+17378	0	0	del  	Eri
+17489	0	0	     	Tau
+17499	0	0	     	Tau
+17351	0	0	h    	Eri
+17527	0	0	     	Tau
+17531	0	0	q    	Tau
+17457	0	0	     	Eri
+17959	0	0	gam  	Cam
+17573	0	0	     	Tau
+17506	0	0	     	Eri
+17579	0	0	     	Tau
+17588	0	0	     	Tau
+17563	0	0	u    	Tau
+17608	0	0	     	Tau
+17593	0	0	pi.  	Eri
+17702	0	0	eta  	Tau
+17618	0	0	sig  	For
+17651	0	0	tau06	Eri
+17771	0	0	e    	Tau
+17440	0	0	bet  	Ret
+17832	0	0	     	Tau
+17886	0	0	n    	Per
+17847	0	0	     	Tau
+17851	0	0	     	Tau
+17717	0	0	tau07	Eri
+17738	0	0	rho  	For
+17797	0	0	f    	Eri
+17874	0	0	g    	Eri
+18089	0	0	     	Tau
+18141	0	0	     	Eri
+18246	0	0	zet  	Per
+17678	0	0	gam  	Hyi
+18350	0	0	X    	Per
+18453	0	0	A    	Per
+18255	0	0	w    	Eri
+18216	0	0	tau08	Eri
+18213	0	0	i    	Eri
+18471	0	0	     	Tau
+18532	0	0	eps  	Per
+18485	0	0	     	Tau
+18614	0	0	ksi  	Per
+18543	0	0	gam  	Eri
+18724	0	0	lam  	Tau
+18673	0	0	tau09	Eri
+18788	0	0	     	Eri
+18597	0	0	del  	Ret
+18907	0	0	nu.  	Tau
+19009	0	0	     	Tau
+18957	0	0	     	Tau
+19038	0	0	A01  	Tau
+19167	0	0	lam  	Per
+19076	0	0	A02  	Tau
+18744	0	0	gam  	Ret
+18772	0	0	iot  	Ret
+19171	0	0	     	Tau
+19205	0	0	psi  	Tau
+19343	0	0	c    	Per
+19302	0	0	     	Per
+19335	0	0	     	Per
+19388	0	0	     	Tau
+19513	0	0	p    	Tau
+19483	0	0	     	Eri
+19554	0	0	     	Tau
+19587	0	0	omi01	Eri
+19515	0	0	del  	Hor
+19812	0	0	mu.  	Per
+19811	0	0	f    	Per
+19719	0	0	     	Tau
+19740	0	0	     	Tau
+19777	0	0	A    	Eri
+19877	0	0	     	Tau
+19860	0	0	mu.  	Tau
+20070	0	0	b    	Per
+19849	0	0	omi02	Eri
+19747	0	0	alf  	Hor
+19990	0	0	ome  	Tau
+20087	0	0	     	Tau
+20234	0	0	b02  	Per
+19780	0	0	alf  	Ret
+19893	0	0	gam  	Dor
+20171	0	0	     	Tau
+20186	0	0	     	Tau
+20252	0	0	     	Per
+20205	0	0	gam  	Tau
+20042	0	0	ups04	Eri
+20250	0	0	phi  	Tau
+20215	0	0	     	Tau
+20354	0	0	d    	Per
+20219	0	0	h    	Tau
+19921	0	0	eps  	Ret
+20261	0	0	     	Tau
+20271	0	0	d    	Eri
+20400	0	0	     	Tau
+20430	0	0	chi  	Tau
+20020	0	0	the  	Ret
+20455	0	0	del  	Tau
+20484	0	0	     	Tau
+20579	0	0	     	Per
+20533	0	0	     	Tau
+20591	0	0	     	Per
+20542	0	0	     	Tau
+20522	0	0	r    	Tau
+20507	0	0	ksi  	Eri
+20635	0	0	kap  	Tau
+20641	0	0	     	Tau
+20648	0	0	     	Tau
+20661	0	0	     	Tau
+20711	0	0	ups  	Tau
+20535	0	0	d    	Eri
+20713	0	0	     	Tau
+20384	0	0	eta  	Ret
+20732	0	0	pi.  	Tau
+20789	0	0	     	Tau
+20877	0	0	     	Tau
+20873	0	0	     	Tau
+20889	0	0	eps  	Tau
+20885	0	0	the01	Tau
+20894	0	0	the02	Tau
+20901	0	0	b    	Tau
+20884	0	0	     	Eri
+21148	0	0	     	Cam
+20995	0	0	     	Tau
+20049	0	0	del  	Men
+21039	0	0	     	Tau
+21036	0	0	     	Tau
+21082	0	0	     	Tau
+21137	0	0	     	Tau
+21242	0	0	m    	Per
+21139	0	0	     	Eri
+21060	0	0	del  	Cae
+21273	0	0	rho  	Tau
+21278	0	0	     	Eri
+21296	0	0	     	Eri
+21248	0	0	ups01	Eri
+21476	0	0	e    	Per
+20297	0	0	nu.  	Men
+21421	0	0	alf  	Tau
+21402	0	0	d    	Tau
+21444	0	0	nu.  	Eri
+21393	0	0	ups02	Eri
+21281	0	0	alf  	Dor
+21730	0	0	     	Cam
+21727	0	0	     	Cam
+21515	0	0	     	Eri
+21588	0	0	     	Tau
+21589	0	0	c01  	Tau
+21547	0	0	c    	Eri
+21673	0	0	sig01	Tau
+21683	0	0	sig02	Tau
+21594	0	0	l    	Eri
+21735	0	0	     	Tau
+21479	0	0	R    	Dor
+21928	0	0	     	Per
+21763	0	0	     	Eri
+21881	0	0	tau  	Tau
+21961	0	0	     	Tau
+21770	0	0	alf  	Cae
+21861	0	0	bet  	Cae
+21986	0	0	     	Eri
+22024	0	0	     	Eri
+22287	0	0	     	Cam
+21914	0	0	lam  	Pic
+21998	0	0	lam  	Cae
+22109	0	0	mu.  	Eri
+22040	0	0	kap  	Dor
+22263	0	0	     	Eri
+22453	0	0	     	Aur
+22441	0	0	     	Tau
+22325	0	0	     	Eri
+22280	0	0	zet  	Cae
+21949	0	0	mu.  	Men
+22783	0	0	alf  	Cam
+22449	0	0	pi.03	Ori
+22509	0	0	pi.02	Ori
+22565	0	0	i    	Tau
+22479	0	0	     	Eri
+22678	0	0	     	Aur
+22549	0	0	pi.04	Ori
+22854	0	0	     	Cam
+22667	0	0	omi01	Ori
+22488	0	0	nu.  	Cae
+22701	0	0	ome  	Eri
+22730	0	0	     	Ori
+22531	0	0	iot  	Pic
+22534	0	0	iot  	Pic
+22797	0	0	pi.05	Ori
+23040	0	0	     	Cam
+22833	0	0	g    	Ori
+22845	0	0	pi.01	Ori
+23015	0	0	iot  	Aur
+22957	0	0	omi02	Ori
+22881	0	0	R    	Eri
+22958	0	0	b    	Eri
+23068	0	0	     	Tau
+23216	0	0	     	Cam
+23088	0	0	k    	Tau
+23179	0	0	     	Aur
+23261	0	0	     	Aur
+23123	0	0	pi.06	Ori
+23268	0	0	     	Aur
+23214	0	0	     	Tau
+23522	0	0	bet  	Cam
+23416	0	0	eps  	Aur
+23221	0	0	     	Eri
+23231	0	0	S    	Eri
+23453	0	0	zet  	Aur
+23364	0	0	psi  	Eri
+23497	0	0	iot  	Tau
+23734	0	0	     	Cam
+23743	0	0	     	Cam
+22871	0	0	eta  	Men
+23474	0	0	     	Lep
+23783	0	0	     	Aur
+23607	0	0	     	Ori
+23767	0	0	eta  	Aur
+23680	0	0	W    	Ori
+23482	0	0	eta01	Pic
+23595	0	0	gam  	Cae
+23596	0	0	gam  	Cae
+23685	0	0	eps  	Lep
+23835	0	0	m    	Tau
+23794	0	0	     	Eri
+23871	0	0	l    	Tau
+23900	0	0	     	Tau
+23883	0	0	     	Tau
+23852	0	0	     	Ori
+23649	0	0	eta02	Pic
+23879	0	0	i    	Ori
+23875	0	0	bet  	Eri
+23983	0	0	h    	Ori
+23941	0	0	     	Eri
+23693	0	0	zet  	Dor
+24010	0	0	     	Ori
+23467	0	0	bet  	Men
+24348	0	0	     	Cam
+23972	0	0	lam  	Eri
+24340	0	0	mu.  	Aur
+24244	0	0	iot  	Lep
+24331	0	0	rho  	Ori
+24305	0	0	mu.  	Lep
+24327	0	0	kap  	Lep
+24504	0	0	     	Aur
+24608	0	0	alf  	Aur
+24512	0	0	     	Tau
+24575	0	0	AE   	Aur
+24436	0	0	bet  	Ori
+23148	0	0	ksi  	Men
+24555	0	0	     	Ori
+24836	0	0	     	Cam
+24727	0	0	     	Aur
+24740	0	0	AR   	Aur
+24813	0	0	lam  	Aur
+24832	0	0	     	Aur
+24674	0	0	tau  	Ori
+24822	0	0	n    	Tau
+24879	0	0	     	Aur
+24659	0	0	omi  	Col
+24372	0	0	the  	Dor
+24817	0	0	     	Ori
+25048	0	0	rho  	Aur
+25197	0	0	     	Cam
+24845	0	0	lam  	Lep
+24873	0	0	nu.  	Lep
+25044	0	0	o    	Ori
+24829	0	0	zet  	Pic
+25192	0	0	     	Aur
+25145	0	0	m    	Ori
+25142	0	0	m    	Ori
+25292	0	0	sig  	Aur
+25216	0	0	     	Tau
+25278	0	0	     	Tau
+25202	0	0	     	Lep
+25247	0	0	e    	Ori
+25282	0	0	p    	Ori
+25281	0	0	eta  	Ori
+25302	0	0	     	Ori
+25336	0	0	gam  	Ori
+25428	0	0	bet  	Tau
+25410	0	0	     	Tau
+25098	0	0	kap  	Pic
+25769	0	0	     	Cam
+25541	0	0	phi  	Aur
+25499	0	0	     	Tau
+25539	0	0	o    	Tau
+25473	0	0	psi  	Ori
+25555	0	0	     	Tau
+25583	0	0	     	Tau
+25303	0	0	the  	Pic
+25695	0	0	     	Tau
+25973	0	0	     	Cam
+25606	0	0	bet  	Lep
+25737	0	0	     	Ori
+25429	0	0	lam  	Dor
+25785	0	0	CK   	Ori
+25813	0	0	A    	Ori
+25861	0	0	n01  	Ori
+25984	0	0	chi  	Aur
+25945	0	0	CE   	Tau
+25853	0	0	     	Lep
+25930	0	0	del  	Ori
+25923	0	0	ups  	Ori
+26408	0	0	     	Cam
+26064	0	0	     	Tau
+25859	0	0	eps  	Col
+26093	0	0	     	Ori
+25985	0	0	alf  	Lep
+26063	0	0	VV   	Ori
+26126	0	0	n02  	Ori
+26248	0	0	     	Tau
+26176	0	0	phi01	Ori
+26207	0	0	lam  	Ori
+26237	0	0	c    	Ori
+26220	0	0	the01	Ori
+26221	0	0	the01	Ori
+26224	0	0	the01	Ori
+26235	0	0	the02	Ori
+26241	0	0	iot  	Ori
+26587	0	0	     	Cam
+26268	0	0	     	Ori
+26311	0	0	eps  	Ori
+26382	0	0	     	Tau
+26366	0	0	phi02	Ori
+26451	0	0	zet  	Tau
+26536	0	0	     	Aur
+26001	0	0	     	Dor
+26069	0	0	bet  	Dor
+26412	0	0	nu.01	Col
+26640	0	0	     	Tau
+26549	0	0	sig  	Ori
+26594	0	0	ome  	Ori
+26460	0	0	nu.02	Col
+26563	0	0	d    	Ori
+26942	0	0	     	Cam
+27046	0	0	     	Cam
+26777	0	0	     	Tau
+26727	0	0	zet  	Ori
+25918	0	0	gam  	Men
+26634	0	0	alf  	Col
+26885	0	0	b    	Ori
+26865	0	0	     	Lep
+27249	0	0	     	Cam
+27196	0	0	omi  	Aur
+27283	0	0	     	Cam
+27072	0	0	gam  	Lep
+27265	0	0	     	Tau
+27316	0	0	     	Tau
+27338	0	0	     	Tau
+26264	0	0	iot  	Men
+27592	0	0	     	Cam
+27364	0	0	     	Tau
+27483	0	0	tau  	Aur
+27204	0	0	mu.  	Col
+27288	0	0	zet  	Lep
+27386	0	0	     	Ori
+27468	0	0	     	Tau
+27366	0	0	kap  	Ori
+27731	0	0	     	Cam
+27511	0	0	     	Tau
+27639	0	0	ups  	Aur
+27673	0	0	nu.  	Aur
+27100	0	0	del  	Dor
+27581	0	0	     	Tau
+27321	0	0	bet  	Pic
+26394	0	0	pi.  	Men
+27971	0	0	     	Cam
+27949	0	0	ksi  	Aur
+27658	0	0	     	Ori
+27743	0	0	     	Tau
+27830	0	0	     	Tau
+27654	0	0	del  	Lep
+27750	0	0	     	Ori
+27628	0	0	bet  	Col
+27530	0	0	gam  	Pic
+27913	0	0	chi01	Ori
+27965	0	0	     	Ori
+27810	0	0	lam  	Col
+25776	0	0	     	Men
+27989	0	0	alf  	Ori
+27369	0	0	lam  	Men
+27534	0	0	eps  	Dor
+28358	0	0	del  	Aur
+28237	0	0	     	Tau
+28103	0	0	eta  	Lep
+28010	0	0	ksi  	Col
+28360	0	0	bet  	Aur
+28404	0	0	pi.  	Aur
+28098	0	0	sig  	Col
+28380	0	0	the  	Aur
+28271	0	0	     	Ori
+28499	0	0	     	Aur
+27890	0	0	     	Dor
+28296	0	0	     	Ori
+28199	0	0	gam  	Col
+28321	0	0	     	Mon
+28325	0	0	     	Mon
+28561	0	0	     	Tau
+28677	0	0	     	Aur
+28328	0	0	eta  	Col
+28765	0	0	     	Cam
+28614	0	0	mu.  	Ori
+27566	0	0	kap  	Men
+28574	0	0	     	Mon
+28691	0	0	     	Ori
+28823	0	0	     	Aur
+28734	0	0	     	Gem
+28716	0	0	chi02	Ori
+28946	0	0	     	Aur
+28812	0	0	     	Ori
+28814	0	0	     	Ori
+28816	0	0	     	Lep
+28756	0	0	     	Col
+28969	0	0	     	Gem
+29246	0	0	     	Cam
+28910	0	0	the  	Lep
+28874	0	0	S    	Lep
+29038	0	0	nu.  	Ori
+29490	0	0	     	Cam
+29048	0	0	     	Lep
+28957	0	0	pi.01	Col
+29225	0	0	     	Gem
+29388	0	0	     	Aur
+29034	0	0	the  	Col
+29288	0	0	     	Gem
+29064	0	0	pi.02	Col
+29379	0	0	     	Gem
+29433	0	0	     	Ori
+28909	0	0	eta01	Dor
+29450	0	0	BU   	Gem
+29434	0	0	f01  	Ori
+29426	0	0	ksi  	Ori
+29730	0	0	     	Cam
+29276	0	0	del  	Pic
+29919	0	0	     	Lyn
+29655	0	0	eta  	Gem
+29696	0	0	kap  	Aur
+29650	0	0	     	Ori
+29134	0	0	nu.  	Dor
+29704	0	0	f02  	Ori
+29651	0	0	gam  	Mon
+29884	0	0	     	Aur
+29736	0	0	     	Ori
+29789	0	0	     	Gem
+30060	0	0	     	Lyn
+29949	0	0	     	Aur
+29840	0	0	     	Gem
+29800	0	0	k    	Ori
+29353	0	0	eta02	Dor
+29850	0	0	l    	Ori
+30003	0	0	     	Gem
+30278	0	0	     	Lyn
+29885	0	0	     	Mon
+29807	0	0	kap  	Col
+30272	0	0	     	Lyn
+30046	0	0	     	Gem
+29271	0	0	alf  	Men
+30049	0	0	     	Gem
+30247	0	0	     	Aur
+30073	0	0	     	Mon
+30122	0	0	zet  	CMa
+30343	0	0	mu.  	Gem
+30520	0	0	psi01	Aur
+30651	0	0	RR   	Lyn
+30679	0	0	     	Lyn
+30324	0	0	bet  	CMa
+30277	0	0	del  	Col
+30419	0	0	eps  	Mon
+30422	0	0	eps  	Mon
+30564	0	0	BL   	Ori
+30541	0	0	T    	Mon
+30342	0	0	nu.  	Pic
+30438	0	0	alf  	Car
+30757	0	0	     	Gem
+30769	0	0	     	Gem
+31039	0	0	     	Lyn
+30827	0	0	RT   	Aur
+30717	0	0	     	Ori
+30700	0	0	     	Mon
+30720	0	0	     	Ori
+30972	0	0	     	Aur
+30883	0	0	nu.  	Gem
+30772	0	0	     	Mon
+30591	0	0	G    	Pup
+30321	0	0	pi.01	Dor
+30867	0	0	bet  	Mon
+30788	0	0	lam  	CMa
+31105	0	0	     	Gem
+31173	0	0	WW   	Aur
+31359	0	0	     	Lyn
+30565	0	0	pi.02	Dor
+31158	0	0	     	Gem
+31159	0	0	     	Mon
+31216	0	0	     	Mon
+31125	0	0	ksi01	CMa
+30932	0	0	     	Pic
+31676	0	0	     	Lyn
+31434	0	0	     	Aur
+31665	0	0	     	Lyn
+31385	0	0	     	Mon
+31579	0	0	UU   	Aur
+31525	0	0	     	Gem
+31137	0	0	mu.  	Pic
+31416	0	0	ksi02	CMa
+31771	0	0	     	Aur
+31789	0	0	psi03	Aur
+31681	0	0	gam  	Gem
+31564	0	0	nu.01	CMa
+31737	0	0	     	Aur
+31832	0	0	psi02	Aur
+31592	0	0	nu.02	CMa
+31407	0	0	N    	Car
+31852	0	0	     	Aur
+31700	0	0	nu.03	CMa
+31685	0	0	nu.  	Pup
+32019	0	0	     	Gem
+31978	0	0	S    	Mon
+32173	0	0	psi04	Aur
+31765	0	0	Y    	Pup
+32104	0	0	     	Gem
+32438	0	0	     	Lyn
+32246	0	0	eps  	Gem
+32489	0	0	     	Lyn
+32249	0	0	     	Gem
+32311	0	0	     	Gem
+32480	0	0	psi05	Aur
+32362	0	0	ksi  	Gem
+32562	0	0	psi06	Aur
+32404	0	0	     	Gem
+32864	0	0	     	Cam
+32349	0	0	alf  	CMa
+32292	0	0	     	CMa
+32463	0	0	     	Mon
+32533	0	0	     	Mon
+32492	0	0	     	CMa
+32578	0	0	     	Mon
+32504	0	0	     	CMa
+33104	0	0	     	Cam
+32844	0	0	psi07	Aur
+32537	0	0	x    	Pup
+32753	0	0	     	Gem
+33048	0	0	     	Lyn
+32814	0	0	     	Gem
+32531	0	0	O    	Car
+32921	0	0	d    	Gem
+32759	0	0	kap  	CMa
+33041	0	0	     	Aur
+33018	0	0	the  	Gem
+33064	0	0	     	Aur
+33133	0	0	psi08	Aur
+32765	0	0	X    	Pup
+32607	0	0	alf  	Pic
+32768	0	0	tau  	Pup
+32761	0	0	A    	Car
+31897	0	0	zet  	Men
+33449	0	0	     	Lyn
+33202	0	0	e    	Gem
+33377	0	0	psi09	Aur
+33277	0	0	     	Gem
+33092	0	0	     	CMa
+33160	0	0	the  	CMa
+33152	0	0	omi01	CMa
+33485	0	0	     	Lyn
+33248	0	0	     	CMa
+33302	0	0	pi.  	CMa
+33345	0	0	mu.  	CMa
+33347	0	0	iot  	CMa
+33614	0	0	     	Aur
+33595	0	0	     	Gem
+32912	0	0	iot  	Vol
+33650	0	0	     	Gem
+33715	0	0	     	Gem
+33579	0	0	eps  	CMa
+33558	0	0	t    	Pup
+33927	0	0	ome  	Gem
+33856	0	0	sig  	CMa
+33971	0	0	     	Mon
+34088	0	0	zet  	Gem
+33779	0	0	     	Car
+33977	0	0	omi02	CMa
+34045	0	0	gam  	CMa
+34182	0	0	     	Gem
+34572	0	0	     	Lyn
+34081	0	0	C    	Pup
+34059	0	0	H    	Pup
+34440	0	0	     	Gem
+33384	0	0	the  	Men
+34339	0	0	D    	Pup
+34444	0	0	del  	CMa
+34752	0	0	     	Aur
+34693	0	0	tau  	Gem
+34722	0	0	     	Gem
+34622	0	0	     	Mon
+34495	0	0	A    	Pup
+34819	0	0	     	Gem
+34724	0	0	     	Mon
+34861	0	0	     	Gem
+34769	0	0	del  	Mon
+35146	0	0	     	Lyn
+34909	0	0	     	Gem
+34798	0	0	     	CMa
+35025	0	0	     	Gem
+34802	0	0	E    	Pup
+34473	0	0	gam01	Vol
+34481	0	0	gam02	Vol
+35152	0	0	     	Gem
+34834	0	0	I    	Pup
+36547	0	0	VZ   	Cam
+35080	0	0	     	Mon
+34981	0	0	     	CMa
+34899	0	0	L01  	Pup
+34922	0	0	L02  	Pup
+35037	0	0	ome  	CMa
+35341	0	0	     	Aur
+35350	0	0	lam  	Gem
+35210	0	0	     	CMa
+35735	0	0	     	Cam
+35264	0	0	pi.  	Pup
+35550	0	0	del  	Gem
+35412	0	0	UW   	CMa
+35415	0	0	tau  	CMa
+35726	0	0	     	Lyn
+35783	0	0	     	Lyn
+35785	0	0	     	Lyn
+35363	0	0	v01  	Pup
+35487	0	0	R    	CMa
+35347	0	0	M    	Pup
+35406	0	0	v02  	Pup
+35393	0	0	F    	Pup
+35710	0	0	     	Aur
+35699	0	0	     	Gem
+35228	0	0	del  	Vol
+35907	0	0	     	Aur
+35846	0	0	A    	Gem
+35842	0	0	     	Gem
+35941	0	0	     	Gem
+36145	0	0	     	Lyn
+35987	0	0	     	CMi
+36046	0	0	iot  	Gem
+35904	0	0	eta  	CMa
+36041	0	0	eps  	CMi
+36156	0	0	     	Gem
+36188	0	0	bet  	CMi
+36238	0	0	     	Gem
+36439	0	0	     	Lyn
+36265	0	0	eta  	CMi
+36366	0	0	rho  	Gem
+36284	0	0	gam  	CMi
+36393	0	0	     	Gem
+36429	0	0	b    	Gem
+36425	0	0	     	CMi
+36363	0	0	y    	Pup
+36521	0	0	U    	Mon
+36377	0	0	sig  	Pup
+36641	0	0	del01	CMi
+36760	0	0	     	Gem
+36723	0	0	del02	CMi
+36850	0	0	alf  	Gem
+36812	0	0	del03	CMi
+36962	0	0	ups  	Gem
+36817	0	0	n    	Pup
+36778	0	0	z    	Pup
+36039	0	0	eps  	Men
+36917	0	0	p    	Pup
+37204	0	0	     	Gem
+37088	0	0	     	Mon
+37406	0	0	     	Lyn
+37265	0	0	omi  	Gem
+36942	0	0	Q    	Car
+37096	0	0	f    	Pup
+37300	0	0	f    	Gem
+37043	0	0	y02  	Pup
+37279	0	0	alf  	CMi
+37173	0	0	m    	Pup
+37609	0	0	     	Lyn
+37229	0	0	kap01	Pup
+37223	0	0	e    	Pup
+37174	0	0	y03  	Pup
+37379	0	0	     	Pup
+37297	0	0	d01  	Pup
+37322	0	0	d02  	Pup
+37329	0	0	d03  	Pup
+37345	0	0	d04  	Pup
+37447	0	0	alf  	Mon
+37629	0	0	sig  	Gem
+37949	0	0	     	Cam
+37934	0	0	     	Cam
+37704	0	0	c    	Gem
+37740	0	0	kap  	Gem
+37826	0	0	bet  	Gem
+37811	0	0	     	Gem
+37648	0	0	     	Pup
+37677	0	0	l    	Pup
+37664	0	0	W    	Pup
+37908	0	0	g    	Gem
+37921	0	0	     	CMi
+37842	0	0	     	Pup
+37843	0	0	     	Pup
+38016	0	0	pi.  	Gem
+37891	0	0	     	Pup
+37819	0	0	c    	Pup
+37853	0	0	     	Pup
+38106	0	0	     	Gem
+37504	0	0	zet  	Vol
+38048	0	0	     	Pup
+38070	0	0	omi  	Pup
+38146	0	0	     	Pup
+38211	0	0	     	Pup
+38170	0	0	ksi  	Pup
+38089	0	0	Q    	Pup
+38164	0	0	P    	Pup
+38373	0	0	zet  	CMi
+38372	0	0	     	Pup
+38382	0	0	     	Pup
+38623	0	0	     	Lyn
+38639	0	0	     	Lyn
+38538	0	0	phi  	Gem
+38427	0	0	     	Pup
+38423	0	0	     	Pup
+38414	0	0	a    	Pup
+38455	0	0	b    	Pup
+38722	0	0	     	Gem
+38518	0	0	J    	Pup
+38848	0	0	     	Cnc
+38835	0	0	j    	Pup
+39261	0	0	     	Cam
+38962	0	0	     	CMi
+38901	0	0	chi  	Pup
+38872	0	0	N    	Pup
+38827	0	0	chi  	Car
+39348	0	0	     	Cam
+38917	0	0	O    	Pup
+39079	0	0	     	Mon
+39023	0	0	     	Pup
+39191	0	0	ome  	Cnc
+39177	0	0	     	Cnc
+38957	0	0	V    	Pup
+39263	0	0	     	Cnc
+39236	0	0	     	Cnc
+39211	0	0	     	Mon
+39311	0	0	G    	CMi
+39424	0	0	chi  	Gem
+39138	0	0	D    	Car
+39567	0	0	     	Cnc
+39429	0	0	zet  	Pup
+39722	0	0	     	Lyn
+39524	0	0	     	Pup
+39659	0	0	     	Cnc
+39847	0	0	     	Lyn
+39780	0	0	mu.  	Cnc
+40215	0	0	     	Cam
+39874	0	0	     	Cnc
+39757	0	0	rho  	Pup
+39863	0	0	zet  	Mon
+40007	0	0	psi01	Cnc
+40023	0	0	psi  	Cnc
+39906	0	0	     	Pup
+40035	0	0	     	Pup
+40167	0	0	zet02	Cnc
+40167	0	0	zet01	Cnc
+39953	0	0	gam02	Vel
+40084	0	0	     	Pup
+40240	0	0	     	Cnc
+39903	0	0	B    	Car
+40474	0	0	     	Cam
+39794	0	0	eps  	Vol
+40091	0	0	h01  	Pup
+40259	0	0	     	Pup
+40155	0	0	AH   	Vel
+40646	0	0	     	Lyn
+40274	0	0	r    	Pup
+40326	0	0	h02  	Pup
+40772	0	0	     	Cam
+40282	0	0	     	Vel
+40526	0	0	bet  	Cnc
+40875	0	0	     	Lyn
+40604	0	0	     	Pup
+40429	0	0	C    	Car
+40843	0	0	chi  	Cnc
+40881	0	0	lam  	Cnc
+40706	0	0	q    	Pup
+41075	0	0	     	Lyn
+40945	0	0	w    	Pup
+41117	0	0	d01  	Cnc
+41067	0	0	     	Pup
+41163	0	0	     	Cnc
+41039	0	0	B    	Vel
+41211	0	0	     	Hya
+41319	0	0	d02  	Cnc
+40817	0	0	kap01	Vol
+40834	0	0	kap02	Vol
+41377	0	0	phi01	Cnc
+41037	0	0	eps  	Car
+41404	0	0	phi02	Cnc
+41389	0	0	     	Cnc
+41307	0	0	C    	Hya
+40702	0	0	alf  	Cha
+41400	0	0	     	Cnc
+41375	0	0	     	Hya
+41704	0	0	omi  	UMa
+41574	0	0	     	Cnc
+41578	0	0	     	Cnc
+41003	0	0	eta  	Vol
+40888	0	0	the  	Cha
+41312	0	0	bet  	Vol
+41483	0	0	F    	Vel
+42080	0	0	A    	UMa
+41816	0	0	ups01	Cnc
+41822	0	0	the  	Cnc
+41616	0	0	A    	Vel
+41975	0	0	     	Lyn
+41909	0	0	eta  	Cnc
+41940	0	0	ups02	Cnc
+41904	0	0	     	Cnc
+42090	0	0	     	Lyn
+42133	0	0	     	Cnc
+42438	0	0	pi.01	UMa
+42146	0	0	     	Hya
+42527	0	0	pi.02	UMa
+42265	0	0	c    	Cnc
+42088	0	0	C    	Vel
+42313	0	0	del  	Hya
+42353	0	0	     	Cnc
+42177	0	0	E    	Vel
+42134	0	0	e02  	Car
+42129	0	0	e01  	Car
+42402	0	0	sig  	Hya
+42334	0	0	eta  	Pyx
+42485	0	0	     	Cnc
+42604	0	0	     	Lyn
+42312	0	0	e    	Vel
+42516	0	0	     	Cnc
+42523	0	0	     	Cnc
+42556	0	0	eps  	Cnc
+42578	0	0	     	Cnc
+42509	0	0	a    	Hya
+42483	0	0	zet  	Pyx
+42515	0	0	bet  	Pyx
+42662	0	0	     	Hya
+42570	0	0	b    	Vel
+42536	0	0	omi  	Vel
+42806	0	0	gam  	Cnc
+42795	0	0	A01  	Cnc
+42624	0	0	n    	Vel
+42799	0	0	eta  	Hya
+42568	0	0	d    	Car
+42835	0	0	F    	Hya
+42425	0	0	the  	Vol
+42911	0	0	del  	Cnc
+42954	0	0	     	Cnc
+42917	0	0	b    	Cnc
+42828	0	0	alf  	Pyx
+42931	0	0	     	Hya
+43100	0	0	iot  	Cnc
+43103	0	0	iot  	Cnc
+42834	0	0	D    	Vel
+42884	0	0	d    	Vel
+43121	0	0	A02  	Cnc
+43109	0	0	eps  	Hya
+43067	0	0	D    	Hya
+42913	0	0	del  	Vel
+43023	0	0	a    	Vel
+43234	0	0	rho  	Hya
+43105	0	0	f    	Car
+43305	0	0	     	Hya
+42637	0	0	eta  	Cha
+43644	0	0	b    	UMa
+43531	0	0	     	Lyn
+43454	0	0	     	Cnc
+43463	0	0	     	Cnc
+43325	0	0	h    	Vel
+43409	0	0	gam  	Pyx
+43584	0	0	sig01	Cnc
+43347	0	0	g    	Vel
+43575	0	0	     	Cnc
+43587	0	0	rho01	Cnc
+43496	0	0	     	Hya
+42794	0	0	     	Cha
+43413	0	0	f    	Vel
+43903	0	0	     	UMa
+43721	0	0	     	Cnc
+43834	0	0	rho02	Cnc
+43811	0	0	X    	Cnc
+43813	0	0	zet  	Hya
+43851	0	0	     	Cnc
+43822	0	0	     	Hya
+43932	0	0	sig02	Cnc
+43825	0	0	del  	Pyx
+43970	0	0	omi01	Cnc
+44031	0	0	     	Cnc
+44001	0	0	omi02	Cnc
+44127	0	0	iot  	UMa
+43783	0	0	c    	Car
+44066	0	0	alf  	Cnc
+43878	0	0	H    	Vel
+44154	0	0	sig03	Cnc
+44390	0	0	rho  	UMa
+44248	0	0	     	UMa
+43937	0	0	b01  	Car
+44307	0	0	     	Cnc
+44342	0	0	     	Cnc
+44191	0	0	w    	Vel
+44471	0	0	kap  	UMa
+44405	0	0	nu.  	Cnc
+44143	0	0	b02  	Car
+44512	0	0	     	Cnc
+44857	0	0	sig01	UMa
+44659	0	0	ome  	Hya
+44511	0	0	c    	Vel
+44382	0	0	alf  	Vol
+45038	0	0	sig02	UMa
+44901	0	0	f    	UMa
+44818	0	0	tau  	Cnc
+44798	0	0	kap  	Cnc
+44838	0	0	     	Cnc
+45075	0	0	tau  	UMa
+44892	0	0	     	Cnc
+44946	0	0	ksi  	Cnc
+44824	0	0	kap  	Pyx
+44883	0	0	     	Hya
+44816	0	0	lam  	Vel
+45058	0	0	RS   	Cnc
+45033	0	0	     	Cnc
+44961	0	0	     	Hya
+44626	0	0	E    	Car
+44599	0	0	G    	Car
+45001	0	0	eps  	Pyx
+45153	0	0	     	Cnc
+45333	0	0	c    	UMa
+45170	0	0	     	Cnc
+45290	0	0	     	Lyn
+45184	0	0	     	Hya
+45080	0	0	a    	Car
+45455	0	0	     	UMa
+45493	0	0	e    	UMa
+45101	0	0	i    	Car
+45336	0	0	the  	Hya
+45410	0	0	pi.  	Cnc
+45344	0	0	z    	Vel
+45386	0	0	k01  	Vel
+43908	0	0	zet  	Oct
+45527	0	0	     	Hya
+45439	0	0	l    	Vel
+45526	0	0	     	Hya
+45448	0	0	k    	Vel
+45238	0	0	bet  	Car
+45688	0	0	     	Lyn
+45588	0	0	     	Hya
+45699	0	0	     	Cnc
+45496	0	0	g    	Car
+45836	0	0	     	Lyn
+45556	0	0	iot  	Car
+45631	0	0	K    	Vel
+45860	0	0	alf  	Lyn
+45751	0	0	     	Hya
+45811	0	0	P    	Hya
+45902	0	0	the  	Pyx
+45856	0	0	k    	Car
+46146	0	0	kap  	Leo
+46026	0	0	lam  	Pyx
+45941	0	0	kap  	Vel
+46221	0	0	     	Hya
+46471	0	0	     	Lyn
+46365	0	0	     	Hya
+46390	0	0	alf  	Hya
+46371	0	0	G    	Hya
+46283	0	0	I    	Vel
+46454	0	0	ome  	Leo
+46457	0	0	     	Leo
+46733	0	0	h    	UMa
+46509	0	0	tau01	Hya
+46652	0	0	     	LMi
+46515	0	0	eps  	Ant
+47013	0	0	     	UMa
+46735	0	0	     	LMi
+46977	0	0	d    	UMa
+46750	0	0	lam  	Leo
+46853	0	0	the  	UMa
+46774	0	0	h    	Leo
+46657	0	0	zet01	Ant
+46771	0	0	ksi  	Leo
+46651	0	0	psi  	Vel
+46776	0	0	tau02	Hya
+46734	0	0	zet02	Ant
+46904	0	0	     	LMi
+46107	0	0	iot  	Cha
+47006	0	0	     	UMa
+46952	0	0	     	LMi
+46701	0	0	N    	Vel
+46982	0	0	A    	Hya
+47080	0	0	     	LMi
+47096	0	0	     	Leo
+46950	0	0	L    	Vel
+46741	0	0	H    	Car
+46974	0	0	h    	Car
+47189	0	0	     	Leo
+47205	0	0	     	Leo
+47247	0	0	     	Leo
+47300	0	0	     	Lyn
+47266	0	0	     	Leo
+47249	0	0	     	Hya
+47310	0	0	     	Sex
+47175	0	0	M    	Vel
+47654	0	0	     	UMa
+47267	0	0	y    	Vel
+47431	0	0	iot  	Hya
+47427	0	0	     	Hya
+47452	0	0	kap  	Hya
+47570	0	0	     	Lyn
+47508	0	0	omi  	Leo
+47550	0	0	     	Leo
+47391	0	0	m    	Car
+47631	0	0	     	LMi
+47522	0	0	I    	Hya
+46928	0	0	zet  	Cha
+47701	0	0	f    	Leo
+47911	0	0	     	UMa
+47723	0	0	psi  	Leo
+47965	0	0	     	Lyn
+47758	0	0	the  	Ant
+47908	0	0	eps  	Leo
+47973	0	0	     	LMi
+47717	0	0	O    	Vel
+47959	0	0	     	Leo
+48029	0	0	     	Leo
+48113	0	0	     	LMi
+47854	0	0	l    	Car
+48319	0	0	ups  	UMa
+48256	0	0	     	LMi
+48218	0	0	     	Leo
+48002	0	0	ups  	Car
+48273	0	0	     	Sex
+48402	0	0	phi  	UMa
+48324	0	0	     	Leo
+48224	0	0	u    	Vel
+48341	0	0	     	Sex
+48390	0	0	g    	Leo
+47956	0	0	nu.  	Cha
+48356	0	0	ups01	Hya
+48455	0	0	mu.  	Leo
+48414	0	0	     	Sex
+48437	0	0	gam  	Sex
+48374	0	0	m    	Vel
+48552	0	0	     	Sex
+48682	0	0	     	UMa
+48742	0	0	     	LMi
+48833	0	0	     	LMi
+48883	0	0	nu.  	Leo
+48774	0	0	phi  	Vel
+48990	0	0	     	Sex
+48926	0	0	eta  	Ant
+49029	0	0	pi.  	Leo
+49081	0	0	     	LMi
+49329	0	0	     	Sex
+49402	0	0	ups02	Hya
+49530	0	0	     	Sex
+49593	0	0	     	LMi
+49583	0	0	eta  	Leo
+49637	0	0	A    	Leo
+49641	0	0	alf  	Sex
+49669	0	0	alf  	Leo
+49065	0	0	mu.  	Cha
+49812	0	0	     	Sex
+49712	0	0	Q    	Vel
+49841	0	0	lam  	Hya
+49865	0	0	     	Sex
+49326	0	0	mu.02	Cha
+49929	0	0	     	Leo
+49751	0	0	S    	Car
+50027	0	0	     	Sex
+50222	0	0	U    	UMa
+50100	0	0	     	Sex
+50140	0	0	     	Sex
+50218	0	0	     	LMi
+50191	0	0	q    	Vel
+50303	0	0	     	LMi
+50083	0	0	M    	Car
+50448	0	0	     	UMa
+50316	0	0	     	LMi
+50319	0	0	     	Leo
+50372	0	0	lam  	UMa
+50335	0	0	zet  	Leo
+50333	0	0	     	Leo
+50099	0	0	ome  	Car
+50384	0	0	     	Leo
+50414	0	0	eps  	Sex
+50371	0	0	q    	Car
+50564	0	0	     	Leo
+50583	0	0	gam01	Leo
+50684	0	0	     	Sex
+50801	0	0	mu.  	UMa
+50755	0	0	     	Leo
+50676	0	0	J    	Vel
+50860	0	0	     	LMi
+50851	0	0	     	Leo
+50799	0	0	r    	Vel
+50935	0	0	     	LMi
+50885	0	0	     	Sex
+51047	0	0	     	LMi
+51008	0	0	     	Leo
+50847	0	0	L    	Car
+51056	0	0	     	LMi
+51069	0	0	mu.  	Hya
+51117	0	0	     	Sex
+51135	0	0	     	Sex
+51233	0	0	bet  	LMi
+51213	0	0	     	Leo
+50954	0	0	I    	Car
+51172	0	0	alf  	Ant
+51401	0	0	     	UMa
+51192	0	0	P    	Car
+51459	0	0	     	UMa
+51420	0	0	     	LMi
+51232	0	0	s    	Car
+51362	0	0	del  	Sex
+51376	0	0	del  	Ant
+51437	0	0	bet  	Sex
+51451	0	0	     	Sex
+51556	0	0	     	LMi
+51585	0	0	     	Leo
+51624	0	0	rho  	Leo
+51523	0	0	Y    	Vel
+51561	0	0	s    	Vel
+51685	0	0	     	LMi
+51614	0	0	phi01	Hya
+51438	0	0	K    	Car
+51576	0	0	p    	Car
+51814	0	0	     	UMa
+51635	0	0	t    	Vel
+51718	0	0	     	Hya
+51775	0	0	     	Leo
+51802	0	0	     	Leo
+51914	0	0	     	LMi
+51821	0	0	U    	Ant
+51905	0	0	phi02	Hya
+51849	0	0	r    	Car
+52032	0	0	     	LMi
+52009	0	0	U    	Hya
+51912	0	0	t01  	Car
+52098	0	0	     	LMi
+51986	0	0	p    	Vel
+52139	0	0	     	LMi
+52085	0	0	phi  	Hya
+51839	0	0	gam  	Cha
+52102	0	0	t02  	Car
+52353	0	0	     	UMa
+52154	0	0	x    	Vel
+52316	0	0	     	Sex
+52478	0	0	     	UMa
+52401	0	0	     	Sex
+52422	0	0	     	LMi
+52457	0	0	     	LMi
+52452	0	0	     	Sex
+52419	0	0	the  	Car
+52468	0	0	w    	Car
+52650	0	0	     	UMa
+52584	0	0	     	Sex
+52685	0	0	     	UMa
+52638	0	0	     	LMi
+52660	0	0	     	Sex
+52686	0	0	m    	Leo
+52689	0	0	k    	Leo
+52737	0	0	b01  	Hya
+52727	0	0	mu.  	Vel
+52882	0	0	     	LMi
+52911	0	0	l    	Leo
+52913	0	0	     	Sex
+52959	0	0	     	LMi
+52595	0	0	del01	Cha
+52943	0	0	nu.  	Hya
+52633	0	0	del02	Cha
+53043	0	0	     	UMa
+53064	0	0	     	UMa
+52980	0	0	     	Sex
+53261	0	0	     	UMa
+53229	0	0	     	LMi
+53295	0	0	ome  	UMa
+53252	0	0	b03  	Hya
+53273	0	0	p01  	Leo
+53355	0	0	     	LMi
+53377	0	0	     	LMi
+53253	0	0	u    	Car
+53426	0	0	     	UMa
+53417	0	0	     	Leo
+53423	0	0	     	Leo
+53449	0	0	     	Leo
+53492	0	0	     	LMi
+53394	0	0	T    	Car
+53502	0	0	iot  	Ant
+53721	0	0	     	UMa
+53740	0	0	alf  	Crt
+53838	0	0	     	UMa
+53807	0	0	d    	Leo
+53773	0	0	i    	Vel
+53824	0	0	c    	Leo
+53910	0	0	bet  	UMa
+53907	0	0	p02  	Leo
+53954	0	0	b    	Leo
+54061	0	0	alf  	UMa
+54049	0	0	p03  	Leo
+54136	0	0	     	UMa
+54196	0	0	     	LMi
+54182	0	0	chi  	Leo
+53702	0	0	eta  	Oct
+54204	0	0	chi01	Hya
+54255	0	0	chi02	Hya
+54347	0	0	     	LMi
+54336	0	0	p04  	Leo
+54388	0	0	     	Leo
+54301	0	0	z    	Car
+54487	0	0	     	Leo
+54539	0	0	psi  	UMa
+54463	0	0	x    	Car
+54461	0	0	z02  	Car
+54682	0	0	bet  	Crt
+54742	0	0	psi  	Crt
+54751	0	0	y    	Car
+54849	0	0	p05  	Leo
+54872	0	0	del  	Leo
+54879	0	0	the  	Leo
+54951	0	0	     	Leo
+55016	0	0	n    	Leo
+55084	0	0	phi  	Leo
+55137	0	0	     	Leo
+55203	0	0	ksi  	UMa
+55219	0	0	nu.  	UMa
+55266	0	0	     	UMa
+55249	0	0	     	Leo
+55282	0	0	del  	Crt
+55434	0	0	sig  	Leo
+55425	0	0	pi.  	Cen
+55533	0	0	     	Leo
+55560	0	0	     	UMa
+55598	0	0	lam  	Crt
+55642	0	0	iot  	Leo
+55650	0	0	     	Leo
+55687	0	0	eps  	Crt
+55705	0	0	gam  	Crt
+55765	0	0	     	Leo
+55791	0	0	     	Leo
+55846	0	0	     	Leo
+55874	0	0	kap  	Crt
+55945	0	0	tau  	Leo
+56034	0	0	     	UMa
+56080	0	0	     	Leo
+56148	0	0	     	UMa
+56127	0	0	e    	Leo
+56146	0	0	     	Leo
+56211	0	0	lam  	Dra
+56242	0	0	     	Leo
+56243	0	0	omi01	Cen
+56250	0	0	omi02	Cen
+56280	0	0	     	Crt
+56343	0	0	ksi  	Hya
+56445	0	0	     	Leo
+56473	0	0	     	Leo
+56480	0	0	A    	Cen
+56583	0	0	     	Dra
+56518	0	0	C01  	Cen
+56573	0	0	C02  	Cen
+56561	0	0	lam  	Cen
+56633	0	0	the  	Crt
+56647	0	0	ups  	Leo
+56700	0	0	C03  	Cen
+56770	0	0	     	UMa
+56675	0	0	pi.  	Cha
+56789	0	0	     	UMa
+56779	0	0	ome  	Vir
+56802	0	0	iot  	Crt
+56922	0	0	omi  	Hya
+56975	0	0	     	Leo
+56997	0	0	     	UMa
+57029	0	0	     	UMa
+57111	0	0	     	Dra
+57283	0	0	zet  	Crt
+57328	0	0	ksi  	Vir
+57380	0	0	nu.  	Vir
+57399	0	0	chi  	UMa
+57363	0	0	lam  	Mus
+57565	0	0	     	Leo
+57562	0	0	A01  	Vir
+57581	0	0	mu.  	Mus
+57632	0	0	bet  	Leo
+57669	0	0	j    	Cen
+57757	0	0	bet  	Vir
+57803	0	0	B    	Cen
+57936	0	0	bet  	Hya
+58001	0	0	gam  	UMa
+58112	0	0	     	UMa
+58110	0	0	A02  	Vir
+58117	0	0	     	UMa
+58159	0	0	o    	Leo
+58181	0	0	     	UMa
+58188	0	0	eta  	Crt
+58484	0	0	eps  	Cha
+58510	0	0	b    	Vir
+58590	0	0	pi.  	Vir
+58587	0	0	     	Crt
+58661	0	0	     	Com
+58684	0	0	     	UMa
+58758	0	0	the01	Cru
+58799	0	0	     	Cen
+58858	0	0	     	Com
+58867	0	0	the02	Cru
+58905	0	0	kap  	Cha
+58948	0	0	omi  	Vir
+59072	0	0	eta  	Cru
+59184	0	0	E    	Cen
+59196	0	0	del  	Cen
+59199	0	0	alf  	Crv
+59285	0	0	     	Vir
+59309	0	0	     	Vir
+59316	0	0	eps  	Crv
+59352	0	0	     	Com
+59394	0	0	     	Crv
+59449	0	0	rho  	Cen
+59468	0	0	     	Com
+59458	0	0	     	UMa
+59501	0	0	     	Com
+59551	0	0	S    	Mus
+59608	0	0	     	Vir
+59654	0	0	D    	Cen
+59708	0	0	     	CVn
+59747	0	0	del  	Cru
+59774	0	0	del  	UMa
+59803	0	0	gam  	Crv
+59819	0	0	     	Com
+59831	0	0	     	CVn
+59847	0	0	     	Com
+59929	0	0	eps  	Mus
+60000	0	0	bet  	Cha
+60009	0	0	zet  	Cru
+60030	0	0	     	Vir
+60059	0	0	F    	Cen
+60087	0	0	     	Com
+60098	0	0	     	Com
+60129	0	0	eta  	Vir
+60122	0	0	     	CVn
+60123	0	0	     	Com
+60172	0	0	c    	Vir
+60189	0	0	zet  	Crv
+60202	0	0	     	Com
+60260	0	0	eps  	Cru
+60212	0	0	     	UMa
+60320	0	0	zet02	Mus
+60329	0	0	zet01	Mus
+60351	0	0	     	Com
+60353	0	0	     	Vir
+60425	0	0	     	Crv
+60449	0	0	x01  	Cen
+60467	0	0	     	CVn
+60485	0	0	     	CVn
+60514	0	0	     	Com
+60610	0	0	x02  	Cen
+60584	0	0	     	UMa
+60646	0	0	     	CVn
+60718	0	0	alf01	Cru
+60710	0	0	G    	Cen
+60697	0	0	     	Com
+60712	0	0	     	UMa
+60742	0	0	gam  	Com
+60746	0	0	     	Com
+60823	0	0	sig  	Cen
+60795	0	0	     	UMa
+60855	0	0	u    	Cen
+60891	0	0	     	Com
+60904	0	0	     	Com
+60941	0	0	     	Com
+60957	0	0	     	Com
+60965	0	0	del  	Crv
+60978	0	0	     	UMa
+60988	0	0	     	CVn
+60992	0	0	     	UMa
+61084	0	0	gam  	Cru
+60998	0	0	     	Dra
+61071	0	0	     	Com
+61136	0	0	     	Cru
+61199	0	0	gam  	Mus
+61174	0	0	eta  	Crv
+61246	0	0	     	Vir
+61295	0	0	     	Com
+61318	0	0	q    	Vir
+61317	0	0	bet  	CVn
+61404	0	0	BO   	Mus
+61359	0	0	bet  	Crv
+61281	0	0	kap  	Dra
+61394	0	0	     	Com
+61415	0	0	     	Com
+61418	0	0	     	Com
+61384	0	0	     	Dra
+61585	0	0	alf  	Mus
+61558	0	0	f    	Vir
+61571	0	0	     	Com
+61622	0	0	tau  	Cen
+61692	0	0	     	CVn
+61740	0	0	chi  	Vir
+61724	0	0	     	Com
+61789	0	0	l    	Cen
+61932	0	0	gam  	Cen
+61981	0	0	R    	Mus
+61966	0	0	     	Cru
+61937	0	0	     	Vir
+61941	0	0	gam  	Vir
+61960	0	0	rho  	Vir
+61969	0	0	     	Vir
+61968	0	0	d01  	Vir
+62012	0	0	w    	Cen
+61936	0	0	     	UMa
+62268	0	0	iot  	Cru
+62322	0	0	bet  	Mus
+62207	0	0	     	CVn
+62223	0	0	Y    	CVn
+62267	0	0	d02  	Vir
+62325	0	0	     	Vir
+62356	0	0	     	Com
+62434	0	0	bet  	Cru
+62394	0	0	     	Vir
+62443	0	0	     	Vir
+62478	0	0	     	Com
+62423	0	0	     	Dra
+62541	0	0	     	Com
+62516	0	0	     	CVn
+62576	0	0	     	Com
+63031	0	0	iot  	Oct
+62683	0	0	p    	Cen
+62757	0	0	     	Vir
+62763	0	0	     	Com
+62807	0	0	     	Com
+62867	0	0	e    	Cen
+62896	0	0	n    	Cen
+62931	0	0	kap  	Cru
+62875	0	0	     	Vir
+62886	0	0	     	Com
+63007	0	0	lam  	Cru
+63005	0	0	mu.02	Cru
+63003	0	0	mu.01	Cru
+62933	0	0	     	Vir
+62985	0	0	psi  	Vir
+62956	0	0	eps  	UMa
+63024	0	0	TU   	CVn
+63090	0	0	del  	Vir
+63210	0	0	H    	Cen
+63121	0	0	alf01	CVn
+63125	0	0	alf02	CVn
+63076	0	0	     	Dra
+63152	0	0	RY   	Dra
+63355	0	0	     	Com
+63414	0	0	k    	Vir
+63613	0	0	del  	Mus
+63462	0	0	     	Com
+63494	0	0	     	Vir
+63432	0	0	     	Dra
+63533	0	0	     	Com
+63503	0	0	     	UMa
+63608	0	0	eps  	Vir
+63724	0	0	ksi01	Cen
+63750	0	0	     	Vir
+63945	0	0	f    	Cen
+64004	0	0	ksi02	Cen
+63901	0	0	     	CVn
+63948	0	0	     	Com
+63950	0	0	     	Com
+64094	0	0	the  	Mus
+64022	0	0	     	Com
+64078	0	0	     	Vir
+64122	0	0	g    	Vir
+64166	0	0	psi  	Hya
+64224	0	0	     	Vir
+64238	0	0	the  	Vir
+64217	0	0	     	CVn
+64241	0	0	alf  	Com
+64246	0	0	     	CVn
+64407	0	0	     	Vir
+64394	0	0	bet  	Com
+64520	0	0	     	Vir
+64661	0	0	eta  	Mus
+64577	0	0	     	Vir
+64625	0	0	     	Vir
+64725	0	0	     	Vir
+64692	0	0	     	CVn
+64803	0	0	r    	Cen
+64792	0	0	e    	Vir
+64852	0	0	sig  	Vir
+64844	0	0	     	CVn
+64924	0	0	     	Vir
+64962	0	0	gam  	Hya
+64906	0	0	     	CVn
+65109	0	0	iot  	Cen
+65074	0	0	     	Vir
+65072	0	0	     	CVn
+65271	0	0	J    	Cen
+65241	0	0	     	Vir
+65387	0	0	m    	Cen
+65468	0	0	iot01	Mus
+65301	0	0	     	Vir
+65323	0	0	     	Vir
+65420	0	0	     	Vir
+65628	0	0	iot02	Mus
+65378	0	0	zet  	UMa
+65474	0	0	alf  	Vir
+65477	0	0	g    	UMa
+65581	0	0	i    	Vir
+65639	0	0	     	Vir
+65810	0	0	K    	Cen
+65721	0	0	     	Vir
+65835	0	0	R    	Hya
+65790	0	0	     	Vir
+66753	0	0	kap  	Oct
+65892	0	0	     	Vir
+65936	0	0	d    	Cen
+66015	0	0	     	Vir
+66006	0	0	l    	Vir
+66091	0	0	     	Vir
+66098	0	0	h    	Vir
+66131	0	0	     	Vir
+66200	0	0	o    	Vir
+66247	0	0	y    	Vir
+66249	0	0	zet  	Vir
+66198	0	0	     	UMa
+66320	0	0	     	Vir
+66234	0	0	     	CVn
+66458	0	0	     	CVn
+66657	0	0	eps  	Cen
+66821	0	0	Q    	Cen
+66634	0	0	     	UMa
+66727	0	0	     	Boo
+66825	0	0	T    	Cen
+66763	0	0	     	Boo
+66803	0	0	m    	Vir
+66738	0	0	     	UMa
+66936	0	0	     	Vir
+67057	0	0	     	Vir
+67153	0	0	i    	Cen
+67139	0	0	     	Vir
+67234	0	0	M    	Cen
+67172	0	0	     	Vir
+67244	0	0	z    	Cen
+67288	0	0	     	Vir
+67239	0	0	     	Boo
+67275	0	0	tau  	Boo
+67231	0	0	     	UMa
+67464	0	0	nu.  	Cen
+67301	0	0	eta  	UMa
+67457	0	0	g    	Cen
+67472	0	0	mu.  	Cen
+67494	0	0	     	Vir
+67459	0	0	ups  	Boo
+67480	0	0	e    	Boo
+67703	0	0	N    	Cen
+67669	0	0	k    	Cen
+67786	0	0	h    	Cen
+67819	0	0	y    	Cen
+67787	0	0	     	Boo
+67627	0	0	i    	Dra
+68002	0	0	zet  	Cen
+67929	0	0	p    	Vir
+67927	0	0	eta  	Boo
+67848	0	0	     	UMa
+68092	0	0	     	Vir
+68103	0	0	     	Boo
+68245	0	0	phi  	Cen
+68282	0	0	ups01	Cen
+68269	0	0	     	Hya
+68276	0	0	     	Boo
+68390	0	0	     	Hya
+68523	0	0	ups02	Cen
+68815	0	0	the  	Aps
+68478	0	0	     	Boo
+68520	0	0	tau  	Vir
+68702	0	0	bet  	Cen
+68862	0	0	chi  	Cen
+68895	0	0	pi.  	Hya
+68933	0	0	the  	Cen
+68888	0	0	     	Vir
+68940	0	0	     	Vir
+68756	0	0	alf  	Dra
+69127	0	0	     	Vir
+69068	0	0	     	Boo
+69896	0	0	eta  	Aps
+69226	0	0	d    	Boo
+68956	0	0	     	UMi
+69415	0	0	     	Hya
+69427	0	0	kap  	Vir
+69112	0	0	     	UMi
+69536	0	0	     	Boo
+69481	0	0	kap01	Boo
+69483	0	0	kap02	Boo
+69612	0	0	     	Boo
+70248	0	0	eps  	Aps
+69701	0	0	iot  	Vir
+70638	0	0	del  	Oct
+69673	0	0	alf  	Boo
+69713	0	0	iot  	Boo
+69732	0	0	lam  	Boo
+69829	0	0	     	Vir
+69996	0	0	iot  	Lup
+69929	0	0	CS   	Vir
+70069	0	0	v    	Cen
+69974	0	0	lam  	Vir
+69879	0	0	A    	Boo
+69989	0	0	     	Boo
+70012	0	0	ups  	Vir
+70090	0	0	psi  	Cen
+70027	0	0	     	Boo
+70300	0	0	a    	Cen
+70306	0	0	k    	Hya
+70336	0	0	     	Lib
+70574	0	0	tau01	Lup
+70576	0	0	tau02	Lup
+70497	0	0	the  	Boo
+70602	0	0	f    	Boo
+70680	0	0	     	Vir
+70753	0	0	l    	Hya
+70755	0	0	phi  	Vir
+70794	0	0	     	Vir
+70791	0	0	g    	Boo
+71121	0	0	sig  	Lup
+71053	0	0	rho  	Boo
+70692	0	0	     	UMi
+71115	0	0	     	Boo
+71075	0	0	gam  	Boo
+71352	0	0	eta  	Cen
+71284	0	0	sig  	Boo
+71500	0	0	a    	Lup
+71536	0	0	rho  	Lup
+71683	0	0	alf  	Cen
+71681	0	0	alf  	Cen
+71908	0	0	alf  	Cir
+71618	0	0	     	Boo
+71860	0	0	alf  	Lup
+72370	0	0	alf  	Aps
+71865	0	0	b    	Cen
+71762	0	0	pi.01	Boo
+71795	0	0	zet  	Boo
+71832	0	0	     	Boo
+71837	0	0	     	Boo
+71974	0	0	     	Lib
+72010	0	0	c01  	Cen
+71957	0	0	mu.  	Vir
+72104	0	0	c02  	Cen
+71995	0	0	W    	Boo
+72290	0	0	b    	Lup
+72197	0	0	m    	Hya
+72154	0	0	     	Vir
+72125	0	0	omi  	Boo
+72194	0	0	     	Lib
+72105	0	0	eps  	Boo
+72220	0	0	     	Vir
+72323	0	0	     	Hya
+72357	0	0	     	Hya
+72378	0	0	     	Hya
+72489	0	0	mu.  	Lib
+73540	0	0	pi.01	Oct
+72571	0	0	E    	Hya
+72683	0	0	omi  	Lup
+72603	0	0	alf01	Lib
+72622	0	0	alf02	Lib
+72487	0	0	h    	Boo
+72631	0	0	     	Lib
+72524	0	0	     	Boo
+72965	0	0	zet  	Cir
+73223	0	0	R    	Aps
+72659	0	0	ksi  	Boo
+73771	0	0	pi.02	Oct
+72929	0	0	     	Lib
+73129	0	0	the  	Cir
+72934	0	0	ksi01	Lib
+73095	0	0	c    	Lup
+74296	0	0	ome  	Oct
+72607	0	0	bet  	UMi
+73133	0	0	ksi02	Lib
+73165	0	0	     	Lib
+73273	0	0	bet  	Lup
+73193	0	0	M    	Ser
+73334	0	0	kap  	Cen
+73284	0	0	     	Hya
+73249	0	0	     	Lib
+73310	0	0	     	Lib
+73473	0	0	del  	Lib
+73369	0	0	     	Boo
+73199	0	0	RR   	UMi
+73566	0	0	     	Hya
+73776	0	0	eta  	Cir
+73536	0	0	     	Ser
+73136	0	0	     	UMi
+73568	0	0	ome  	Boo
+73620	0	0	     	Vir
+73555	0	0	bet  	Boo
+73714	0	0	sig  	Lib
+73807	0	0	pi.  	Lup
+73745	0	0	psi  	Boo
+73440	0	0	     	UMi
+73695	0	0	i    	Boo
+73945	0	0	nu.  	Lib
+73953	0	0	     	Lib
+74117	0	0	lam  	Lup
+73841	0	0	k    	Boo
+73996	0	0	c    	Boo
+74087	0	0	b    	Boo
+74376	0	0	kap01	Lup
+74380	0	0	kap02	Lup
+74395	0	0	zet  	Lup
+74449	0	0	e    	Lup
+74392	0	0	iot  	Lib
+74493	0	0	     	Lib
+74500	0	0	     	Lib
+74604	0	0	i    	Lup
+74600	0	0	     	Lib
+74778	0	0	del  	Cir
+74837	0	0	eps  	Cir
+74824	0	0	bet  	Cir
+74946	0	0	gam  	TrA
+74649	0	0	     	Ser
+74596	0	0	chi  	Boo
+74689	0	0	     	Ser
+74666	0	0	del  	Boo
+74911	0	0	mu.  	Lup
+74785	0	0	bet  	Lib
+74857	0	0	f    	Lup
+74975	0	0	     	Ser
+75141	0	0	del  	Lup
+75206	0	0	nu.01	Lup
+75181	0	0	nu.02	Lup
+75110	0	0	     	Lib
+75118	0	0	omi  	Lib
+75323	0	0	gam  	Cir
+75177	0	0	phi01	Lup
+75264	0	0	eps  	Lup
+75049	0	0	omi  	CrB
+75119	0	0	     	Ser
+75304	0	0	phi02	Lup
+74793	0	0	     	UMi
+75294	0	0	     	Lib
+75230	0	0	     	Ser
+75178	0	0	     	Boo
+75439	0	0	ups  	Lup
+75342	0	0	     	Ser
+75379	0	0	eps  	Lib
+75501	0	0	k    	Lup
+75312	0	0	eta  	CrB
+76996	0	0	rho  	Oct
+76013	0	0	kap01	Aps
+75411	0	0	mu.01	Boo
+75415	0	0	mu.02	Boo
+75097	0	0	gam  	UMi
+75530	0	0	tau01	Ser
+75152	0	0	     	UMi
+75730	0	0	     	Lib
+75458	0	0	iot  	Dra
+75761	0	0	     	Ser
+75695	0	0	bet  	CrB
+75848	0	0	     	Lib
+75944	0	0	     	Lib
+75973	0	0	nu.01	Boo
+76126	0	0	zet  	Lib
+76069	0	0	tau02	Ser
+76440	0	0	eps  	TrA
+76133	0	0	A01  	Ser
+76041	0	0	nu.02	Boo
+76259	0	0	     	Lib
+76297	0	0	gam  	Lup
+76219	0	0	     	Lib
+76127	0	0	the  	CrB
+76371	0	0	d    	Lup
+76750	0	0	kap02	Aps
+76333	0	0	gam  	Lib
+76276	0	0	del  	Ser
+76267	0	0	alf  	CrB
+76470	0	0	ups  	Lib
+76337	0	0	tau03	Ser
+76552	0	0	ome  	Lup
+76427	0	0	     	Ser
+76307	0	0	mu.  	CrB
+76425	0	0	     	Ser
+76423	0	0	tau04	Ser
+76424	0	0	tau05	Ser
+76600	0	0	tau  	Lib
+76628	0	0	     	Lib
+76705	0	0	psi01	Lup
+76534	0	0	phi  	Boo
+76742	0	0	     	Lib
+76829	0	0	g    	Lup
+76008	0	0	the  	UMi
+75809	0	0	pi.01	UMi
+75829	0	0	pi.01	UMi
+76669	0	0	zet01	CrB
+76669	0	0	zet02	CrB
+76939	0	0	h    	Lup
+76880	0	0	kap  	Lib
+76945	0	0	psi02	Lup
+76810	0	0	tau06	Ser
+76852	0	0	iot  	Ser
+76866	0	0	chi  	Ser
+76878	0	0	tau07	Ser
+77060	0	0	eta  	Lib
+76952	0	0	gam  	CrB
+77052	0	0	psi  	Ser
+77070	0	0	alf  	Ser
+77048	0	0	pi.  	CrB
+77111	0	0	tau08	Ser
+77227	0	0	A02  	Ser
+77233	0	0	bet  	Ser
+77257	0	0	lam  	Ser
+77336	0	0	ups  	Ser
+77464	0	0	     	Ser
+77450	0	0	kap  	Ser
+77516	0	0	mu.  	Ser
+77442	0	0	R    	CrB
+77634	0	0	chi  	Lup
+77635	0	0	b    	Sco
+76695	0	0	pi.02	UMi
+77578	0	0	ome  	Ser
+77512	0	0	del  	CrB
+77982	0	0	kap  	TrA
+77622	0	0	eps  	Ser
+77660	0	0	b    	Ser
+77952	0	0	bet  	TrA
+77661	0	0	rho  	Ser
+77655	0	0	kap  	CrB
+77811	0	0	lam  	Lib
+77055	0	0	zet  	UMi
+77840	0	0	A    	Sco
+77853	0	0	the  	Lib
+77801	0	0	     	Ser
+77909	0	0	     	Sco
+77760	0	0	chi  	Her
+77939	0	0	     	Lib
+77984	0	0	     	Sco
+77910	0	0	     	Ser
+78105	0	0	ksi01	Lup
+78106	0	0	ksi02	Lup
+78104	0	0	rho  	Sco
+77907	0	0	     	Her
+78072	0	0	gam  	Ser
+78012	0	0	lam  	CrB
+77986	0	0	     	Her
+78132	0	0	phi  	Ser
+78207	0	0	     	Lib
+78265	0	0	pi.  	Sco
+78159	0	0	eps  	CrB
+78384	0	0	eta  	Lup
+78401	0	0	del  	Sco
+78400	0	0	     	Lib
+78436	0	0	     	Lib
+78662	0	0	iot01	Nor
+78639	0	0	eta  	Nor
+78481	0	0	r    	Her
+78459	0	0	rho  	CrB
+78493	0	0	iot  	CrB
+78554	0	0	pi.  	Ser
+78685	0	0	     	Ser
+78727	0	0	ksi  	Sco
+78914	0	0	del  	Nor
+78574	0	0	X    	Her
+78592	0	0	ups  	Her
+78820	0	0	bet01	Sco
+78821	0	0	bet02	Sco
+78527	0	0	the  	Dra
+78918	0	0	the  	Lup
+78933	0	0	ome01	Sco
+79153	0	0	iot02	Nor
+78990	0	0	ome02	Sco
+79005	0	0	     	Sco
+79007	0	0	     	Ser
+79047	0	0	     	Ser
+79045	0	0	kap  	Her
+79043	0	0	kap  	Her
+79072	0	0	     	Ser
+79102	0	0	     	Her
+79119	0	0	tau  	CrB
+79497	0	0	zet  	Nor
+80047	0	0	del01	Aps
+79490	0	0	     	Nor
+80057	0	0	del02	Aps
+79101	0	0	phi  	Her
+79509	0	0	kap  	Nor
+79404	0	0	c02  	Sco
+79399	0	0	c01  	Sco
+79374	0	0	nu.  	Sco
+79664	0	0	del  	TrA
+79375	0	0	psi  	Sco
+79387	0	0	     	Sco
+78661	0	0	     	UMi
+79332	0	0	q    	Her
+79248	0	0	     	Her
+79349	0	0	     	Her
+79653	0	0	the  	Nor
+79488	0	0	     	Her
+79540	0	0	chi  	Sco
+79492	0	0	     	Ser
+79593	0	0	del  	Oph
+79790	0	0	gam01	Nor
+79672	0	0	     	Sco
+79634	0	0	     	Her
+79607	0	0	sig  	CrB
+79666	0	0	     	Her
+79881	0	0	d    	Sco
+79963	0	0	lam  	Nor
+80000	0	0	gam02	Nor
+79757	0	0	ups  	CrB
+79882	0	0	eps  	Oph
+79280	0	0	     	UMi
+79889	0	0	     	Her
+80079	0	0	omi  	Sco
+79420	0	0	     	UMi
+80112	0	0	sig  	Sco
+79992	0	0	tau  	Her
+80179	0	0	sig  	Ser
+80170	0	0	gam  	Her
+80686	0	0	zet  	TrA
+81065	0	0	gam  	Aps
+80181	0	0	ksi  	CrB
+80343	0	0	psi  	Oph
+80197	0	0	nu.01	CrB
+80214	0	0	nu.02	CrB
+80645	0	0	iot  	TrA
+80247	0	0	     	Her
+80351	0	0	o    	Her
+80473	0	0	rho  	Oph
+80582	0	0	eps  	Nor
+79822	0	0	eta  	UMi
+80463	0	0	ome  	Her
+80569	0	0	chi  	Oph
+80460	0	0	     	Her
+80628	0	0	ups  	Oph
+80331	0	0	eta  	Dra
+80763	0	0	alf  	Sco
+80815	0	0	i    	Sco
+80911	0	0	N    	Sco
+80704	0	0	g    	Her
+80894	0	0	phi  	Oph
+80816	0	0	bet  	Her
+80883	0	0	lam  	Oph
+81252	0	0	the  	TrA
+80843	0	0	s    	Her
+80975	0	0	ome  	Oph
+81122	0	0	mu.  	Nor
+80809	0	0	     	Her
+81007	0	0	n    	Her
+80927	0	0	     	Her
+81008	0	0	h    	Her
+80650	0	0	A    	Dra
+81852	0	0	bet  	Aps
+81066	0	0	     	Her
+81266	0	0	tau  	Sco
+81304	0	0	H    	Sco
+81126	0	0	sig  	Her
+81300	0	0	     	Oph
+81710	0	0	eta01	TrA
+81589	0	0	R    	Ara
+81377	0	0	zet  	Oph
+81290	0	0	     	Dra
+81292	0	0	     	Dra
+81641	0	0	     	Her
+81634	0	0	     	Her
+81724	0	0	     	Sco
+81497	0	0	     	Her
+81734	0	0	     	Oph
+81693	0	0	zet  	Her
+81729	0	0	     	Her
+82273	0	0	alf  	TrA
+81833	0	0	eta  	Her
+81991	0	0	     	Her
+81660	0	0	g    	Dra
+82037	0	0	     	Oph
+82140	0	0	     	Sco
+82073	0	0	i    	Her
+82363	0	0	eta  	Ara
+82162	0	0	     	Oph
+82216	0	0	l    	Her
+82396	0	0	eps  	Sco
+82369	0	0	     	Oph
+82514	0	0	mu.01	Sco
+82324	0	0	     	Her
+82402	0	0	k    	Her
+82545	0	0	mu.02	Sco
+82321	0	0	     	Her
+82480	0	0	     	Oph
+82422	0	0	     	Her
+82671	0	0	zet01	Sco
+82526	0	0	     	Her
+82504	0	0	     	Her
+82729	0	0	zet02	Sco
+82587	0	0	     	Her
+82730	0	0	     	Oph
+82673	0	0	iot  	Oph
+82912	0	0	RR   	Sco
+83081	0	0	zet  	Ara
+82960	0	0	     	Sco
+82925	0	0	     	Oph
+82780	0	0	     	Her
+82802	0	0	     	Her
+83153	0	0	eps01	Ara
+83000	0	0	kap  	Oph
+82987	0	0	     	Her
+83196	0	0	     	Oph
+83431	0	0	eps02	Ara
+82860	0	0	h    	Dra
+83262	0	0	     	Oph
+82898	0	0	     	Dra
+83331	0	0	     	Oph
+82080	0	0	eps  	UMi
+83207	0	0	eps  	Her
+83313	0	0	d    	Her
+83574	0	0	k    	Sco
+83430	0	0	     	Oph
+83462	0	0	     	Her
+83613	0	0	     	Her
+83608	0	0	mu.  	Dra
+83838	0	0	c    	Her
+84012	0	0	eta  	Oph
+84143	0	0	eta  	Sco
+84054	0	0	     	Her
+84177	0	0	     	Oph
+83895	0	0	zet  	Dra
+84405	0	0	A    	Oph
+84345	0	0	alf01	Her
+84379	0	0	del  	Her
+84979	0	0	iot  	Aps
+84500	0	0	U    	Oph
+84514	0	0	     	Oph
+84969	0	0	zet  	Aps
+84380	0	0	pi.  	Her
+84626	0	0	omi  	Oph
+84625	0	0	omi  	Oph
+84573	0	0	u    	Her
+84671	0	0	e    	Oph
+84606	0	0	e    	Her
+84893	0	0	ksi  	Oph
+84880	0	0	nu.  	Ser
+84496	0	0	VW   	Dra
+85035	0	0	V636 	Sco
+85079	0	0	iot  	Ara
+84970	0	0	the  	Oph
+84887	0	0	     	Her
+84862	0	0	w    	Her
+85084	0	0	     	Oph
+85258	0	0	bet  	Ara
+85267	0	0	gam  	Ara
+84835	0	0	     	Her
+85312	0	0	kap  	Ara
+85157	0	0	     	Her
+85112	0	0	rho  	Her
+85340	0	0	b    	Oph
+85423	0	0	d    	Oph
+85365	0	0	     	Oph
+85355	0	0	sig  	Oph
+85727	0	0	del  	Ara
+85696	0	0	ups  	Sco
+85379	0	0	x    	Her
+85792	0	0	alf  	Ara
+85755	0	0	c    	Oph
+85693	0	0	lam  	Her
+85927	0	0	lam  	Sco
+85790	0	0	     	Her
+85670	0	0	bet  	Dra
+86092	0	0	sig  	Ara
+86060	0	0	     	Oph
+86170	0	0	Q    	Sco
+85998	0	0	f    	Oph
+86305	0	0	pi.  	Ara
+86228	0	0	the  	Sco
+85819	0	0	nu.01	Dra
+85829	0	0	nu.02	Dra
+86032	0	0	alf  	Oph
+86263	0	0	ksi  	Ser
+85805	0	0	f    	Dra
+86284	0	0	mu.  	Oph
+86486	0	0	lam  	Ara
+86254	0	0	     	Her
+86036	0	0	     	Dra
+86182	0	0	y    	Her
+85852	0	0	     	Dra
+86670	0	0	kap  	Sco
+86565	0	0	omi  	Ser
+86929	0	0	eta  	Pav
+86796	0	0	mu.  	Ara
+86414	0	0	iot  	Her
+86736	0	0	     	Oph
+86201	0	0	ome  	Dra
+86667	0	0	     	Her
+86742	0	0	bet  	Oph
+86731	0	0	     	Her
+86831	0	0	     	Oph
+87073	0	0	iot01	Sco
+87072	0	0	X    	Sgr
+87314	0	0	ups01	Ara
+86974	0	0	mu.  	Her
+87108	0	0	gam  	Oph
+87261	0	0	G    	Sco
+87294	0	0	iot02	Sco
+87379	0	0	ups02	Ara
+86614	0	0	psi  	Dra
+86620	0	0	psi  	Dra
+87194	0	0	     	Her
+87212	0	0	     	Dra
+87495	0	0	Y    	Oph
+87280	0	0	z    	Her
+87706	0	0	     	Oph
+87563	0	0	f    	Her
+87747	0	0	     	Her
+87585	0	0	ksi  	Dra
+87808	0	0	the  	Her
+88048	0	0	nu.  	Oph
+88116	0	0	     	Sgr
+87234	0	0	     	Dra
+87850	0	0	OP   	Her
+87933	0	0	ksi  	Her
+87833	0	0	gam  	Dra
+87998	0	0	nu.  	Her
+88175	0	0	zet  	Ser
+88149	0	0	     	Oph
+88128	0	0	     	Her
+88192	0	0	     	Oph
+88258	0	0	     	Sgr
+92824	0	0	chi  	Oct
+88290	0	0	     	Oph
+88380	0	0	     	Sgr
+87728	0	0	     	Dra
+88267	0	0	     	Her
+88404	0	0	tau  	Oph
+88469	0	0	     	Sgr
+88331	0	0	     	Her
+88346	0	0	     	Her
+88567	0	0	W    	Sgr
+88714	0	0	the  	Ara
+88866	0	0	pi.  	Pav
+88635	0	0	gam  	Sgr
+88522	0	0	V986 	Oph
+88601	0	0	p    	Oph
+89042	0	0	iot  	Pav
+88657	0	0	     	Her
+88765	0	0	     	Oph
+88771	0	0	     	Oph
+88745	0	0	b    	Her
+88794	0	0	omi  	Her
+88818	0	0	     	Her
+88817	0	0	     	Her
+89112	0	0	eps  	Tel
+88886	0	0	     	Her
+85822	0	0	del  	UMi
+88899	0	0	     	Her
+88964	0	0	     	Oph
+89153	0	0	     	Sgr
+88127	0	0	     	Dra
+88136	0	0	     	Dra
+85699	0	0	     	UMi
+89341	0	0	mu.  	Sgr
+89172	0	0	A    	Her
+89369	0	0	     	Sgr
+89440	0	0	     	Sgr
+89439	0	0	     	Sgr
+90133	0	0	phi  	Oct
+89567	0	0	     	Sgr
+89642	0	0	eta  	Sgr
+89637	0	0	RS   	Sgr
+89348	0	0	     	Dra
+90098	0	0	ksi  	Pav
+89931	0	0	del  	Sgr
+89773	0	0	     	Her
+89968	0	0	Y    	Sgr
+89448	0	0	     	Dra
+89918	0	0	     	Oph
+89861	0	0	     	Her
+89962	0	0	eta  	Ser
+89826	0	0	kap  	Lyr
+89925	0	0	     	Her
+89935	0	0	t    	Her
+90185	0	0	eps  	Sgr
+89594	0	0	     	Dra
+90135	0	0	zet  	Sct
+90260	0	0	     	Sgr
+90139	0	0	     	Her
+90289	0	0	     	Sgr
+90422	0	0	alf  	Tel
+90191	0	0	mu.  	Lyr
+90568	0	0	zet  	Tel
+90496	0	0	lam  	Sgr
+90797	0	0	nu.  	Pav
+90441	0	0	d    	Ser
+89908	0	0	phi  	Dra
+90156	0	0	b    	Dra
+89937	0	0	chi  	Dra
+90595	0	0	gam  	Sct
+90830	0	0	del01	Tel
+90642	0	0	c    	Ser
+90853	0	0	del02	Tel
+90344	0	0	     	Dra
+90982	0	0	the  	CrA
+90969	0	0	kap01	CrA
+90968	0	0	kap02	CrA
+90844	0	0	     	Ser
+91004	0	0	     	Sgr
+91066	0	0	     	Sgr
+91117	0	0	alf  	Sct
+90905	0	0	d    	Dra
+91792	0	0	zet  	Pav
+91322	0	0	e    	Ser
+91262	0	0	alf  	Lyr
+91373	0	0	XY   	Lyr
+91689	0	0	     	Sgr
+91726	0	0	del  	Sct
+91875	0	0	lam  	CrA
+91845	0	0	eps  	Sct
+92294	0	0	the  	Pav
+92041	0	0	phi  	Sgr
+91975	0	0	     	Aql
+92111	0	0	     	Sgr
+91755	0	0	c    	Dra
+92226	0	0	mu.  	CrA
+91919	0	0	eps01	Lyr
+91926	0	0	eps02	Lyr
+91971	0	0	zet01	Lyr
+91973	0	0	zet02	Lyr
+92117	0	0	     	Aql
+92043	0	0	     	Her
+92308	0	0	eta01	CrA
+92175	0	0	bet  	Sct
+92202	0	0	R    	Sct
+92382	0	0	eta02	CrA
+92161	0	0	     	Her
+92609	0	0	lam  	Pav
+92390	0	0	     	Sgr
+92646	0	0	kap  	Tel
+92480	0	0	     	Sgr
+92204	0	0	     	Dra
+92398	0	0	nu.01	Lyr
+92524	0	0	     	Aql
+92405	0	0	nu.  	Lyr
+92420	0	0	bet  	Lyr
+93015	0	0	kap  	Pav
+92614	0	0	     	Her
+92747	0	0	     	Sgr
+92761	0	0	nu.01	Sgr
+92845	0	0	nu.02	Sgr
+92855	0	0	sig  	Sgr
+92112	0	0	     	Dra
+92512	0	0	omi  	Dra
+93163	0	0	ome  	Pav
+92728	0	0	del01	Lyr
+92818	0	0	     	Her
+93148	0	0	lam  	Tel
+92872	0	0	     	Ser
+92791	0	0	del02	Lyr
+92946	0	0	the01	Ser
+92951	0	0	the02	Ser
+93057	0	0	ksi01	Sgr
+93026	0	0	eta  	Sct
+93085	0	0	ksi02	Sgr
+93174	0	0	eps  	CrA
+92862	0	0	R    	Lyr
+93051	0	0	     	Ser
+93124	0	0	FF   	Aql
+93179	0	0	     	Aql
+93203	0	0	     	Aql
+92997	0	0	     	Dra
+93244	0	0	eps  	Aql
+93194	0	0	gam  	Lyr
+92782	0	0	ups  	Dra
+93542	0	0	zet  	CrA
+93279	0	0	lam  	Lyr
+93429	0	0	i    	Aql
+93506	0	0	zet  	Sgr
+93526	0	0	g    	Aql
+93815	0	0	rho  	Tel
+93408	0	0	     	Lyr
+93683	0	0	omi  	Sgr
+93340	0	0	     	Dra
+93717	0	0	h    	Aql
+93825	0	0	gam  	CrA
+104382	0	0	sig  	Oct
+93864	0	0	tau  	Sgr
+93747	0	0	zet  	Aql
+93805	0	0	lam  	Aql
+94005	0	0	del  	CrA
+93867	0	0	     	Aql
+93713	0	0	     	Dra
+94114	0	0	alf  	CrA
+94160	0	0	bet  	CrA
+93917	0	0	     	Lyr
+93903	0	0	iot  	Lyr
+94141	0	0	pi.  	Sgr
+94068	0	0	     	Aql
+94724	0	0	tau  	Pav
+94385	0	0	     	Aql
+94311	0	0	     	Lyr
+94477	0	0	     	Aql
+94140	0	0	     	Dra
+94643	0	0	psi  	Sgr
+94302	0	0	     	Dra
+94730	0	0	RY   	Sgr
+94481	0	0	eta  	Lyr
+94620	0	0	     	Sge
+94727	0	0	     	Aql
+94820	0	0	d    	Sgr
+94703	0	0	     	Vul
+94490	0	0	     	Dra
+94376	0	0	del  	Dra
+94083	0	0	     	Dra
+94713	0	0	the  	Lyr
+94834	0	0	ome01	Aql
+94827	0	0	     	Vul
+94885	0	0	     	Aql
+94913	0	0	     	Aql
+94910	0	0	U    	Sge
+94779	0	0	kap  	Cyg
+95261	0	0	eta  	Tel
+94982	0	0	A    	Aql
+95002	0	0	ome02	Aql
+95066	0	0	f    	Aql
+95073	0	0	d    	Aql
+95241	0	0	bet01	Sgr
+95168	0	0	rho01	Sgr
+95176	0	0	ups  	Sgr
+95294	0	0	bet02	Sgr
+95188	0	0	rho02	Sgr
+95347	0	0	alf  	Sgr
+94648	0	0	tau  	Dra
+95260	0	0	     	Vul
+95477	0	0	chi01	Sgr
+95486	0	0	chi02	Sgr
+95503	0	0	chi03	Sgr
+95398	0	0	     	Sge
+95081	0	0	pi.  	Dra
+95372	0	0	     	Cyg
+95435	0	0	     	Sge
+95447	0	0	b    	Aql
+95564	0	0	     	Sgr
+95501	0	0	del  	Aql
+95498	0	0	     	Vul
+95585	0	0	nu.  	Aql
+95560	0	0	     	Vul
+95932	0	0	mu.  	Tel
+84535	0	0	lam  	UMi
+95556	0	0	     	Cyg
+95793	0	0	c    	Aql
+95820	0	0	U    	Aql
+95771	0	0	alf  	Vul
+95785	0	0	     	Vul
+95656	0	0	     	Cyg
+95818	0	0	     	Vul
+95154	0	0	UX   	Dra
+95937	0	0	e    	Aql
+95947	0	0	bet01	Cyg
+95951	0	0	bet02	Cyg
+95853	0	0	iot  	Cyg
+96341	0	0	iot  	Tel
+96052	0	0	     	Cyg
+96229	0	0	mu.  	Aql
+96327	0	0	     	Aql
+96406	0	0	h01  	Sgr
+96275	0	0	     	Vul
+96465	0	0	h02  	Sgr
+96302	0	0	     	Cyg
+96483	0	0	kap  	Aql
+96468	0	0	iot  	Aql
+96387	0	0	     	Cyg
+96556	0	0	     	Aql
+96100	0	0	sig  	Dra
+96516	0	0	eps  	Sge
+96441	0	0	the  	Cyg
+96729	0	0	     	Sgr
+      	0	0	R    	Cyg
+96665	0	0	sig  	Aql
+96808	0	0	e01  	Sgr
+96683	0	0	phi  	Cyg
+96757	0	0	alf  	Sge
+96807	0	0	     	Aql
+96693	0	0	     	Cyg
+96840	0	0	QS   	Aql
+96837	0	0	bet  	Sge
+96950	0	0	e02  	Sgr
+96931	0	0	     	Aql
+96957	0	0	chi  	Aql
+96895	0	0	c    	Cyg
+96901	0	0	c    	Cyg
+97077	0	0	     	Vul
+97421	0	0	nu.  	Tel
+97139	0	0	psi  	Aql
+97290	0	0	f    	Sgr
+97118	0	0	     	Cyg
+97229	0	0	ups  	Aql
+97278	0	0	gam  	Aql
+97165	0	0	del  	Cyg
+97295	0	0	     	Cyg
+97365	0	0	del  	Sge
+97473	0	0	pi.  	Aql
+97496	0	0	zet  	Sge
+97650	0	0	     	Aql
+97649	0	0	alf  	Aql
+97675	0	0	omi  	Aql
+97783	0	0	     	Sgr
+97629	0	0	chi  	Cyg
+97679	0	0	     	Vul
+97630	0	0	     	Cyg
+97634	0	0	V380 	Cyg
+97804	0	0	eta  	Aql
+97796	0	0	     	Sge
+97635	0	0	d    	Cyg
+98032	0	0	iot  	Sgr
+97433	0	0	eps  	Dra
+97928	0	0	     	Aql
+98495	0	0	eps  	Pav
+97886	0	0	     	Vul
+97966	0	0	     	Aql
+97967	0	0	     	Aql
+97938	0	0	ksi  	Aql
+97980	0	0	     	Aql
+98066	0	0	ome  	Sgr
+98036	0	0	bet  	Aql
+98478	0	0	mu.01	Pav
+98162	0	0	b01  	Sgr
+97870	0	0	     	Cyg
+98085	0	0	S    	Sge
+98103	0	0	phi  	Aql
+98624	0	0	mu.02	Pav
+98068	0	0	     	Cyg
+98258	0	0	g    	Sgr
+98110	0	0	eta  	Cyg
+98353	0	0	A    	Sgr
+98055	0	0	psi  	Cyg
+98234	0	0	     	Sge
+98412	0	0	the01	Sgr
+98421	0	0	the02	Sgr
+98337	0	0	gam  	Sge
+98375	0	0	     	Vul
+98438	0	0	     	Sge
+98425	0	0	     	Cyg
+98633	0	0	     	Sgr
+98688	0	0	c    	Sgr
+98543	0	0	     	Vul
+98636	0	0	     	Vul
+98571	0	0	e    	Cyg
+98754	0	0	     	Sge
+99240	0	0	del  	Pav
+98844	0	0	     	Aql
+98823	0	0	tau  	Aql
+98819	0	0	     	Sge
+99120	0	0	ksi  	Tel
+98953	0	0	     	Sgr
+98583	0	0	e    	Dra
+98920	0	0	eta  	Sge
+98658	0	0	     	Dra
+98702	0	0	rho  	Dra
+98401	0	0	     	Dra
+99080	0	0	     	Vul
+99031	0	0	b01  	Cyg
+99171	0	0	     	Aql
+98962	0	0	     	Dra
+99352	0	0	the  	Sge
+99303	0	0	b02  	Cyg
+99473	0	0	the  	Aql
+99404	0	0	     	Vul
+99529	0	0	ksi01	Cap
+99572	0	0	ksi  	Cap
+99518	0	0	     	Vul
+99531	0	0	     	Vul
+99631	0	0	     	Aql
+99742	0	0	rho  	Aql
+99500	0	0	     	Dra
+99639	0	0	     	Cyg
+99738	0	0	     	Vul
+99675	0	0	omi01	Cyg
+99770	0	0	b03  	Cyg
+99918	0	0	     	Cap
+99655	0	0	     	Cyg
+99853	0	0	     	Vul
+99874	0	0	     	Vul
+99913	0	0	     	Sge
+100027	0	0	alf01	Cap
+100062	0	0	     	Cap
+99255	0	0	kap  	Cep
+99848	0	0	omi02	Cyg
+99951	0	0	     	Vul
+100064	0	0	alf02	Cap
+100195	0	0	sig  	Cap
+100044	0	0	P    	Cyg
+100108	0	0	     	Cyg
+100122	0	0	     	Cyg
+100310	0	0	nu.  	Cap
+100325	0	0	bet02	Cap
+100345	0	0	bet  	Cap
+100469	0	0	kap01	Sgr
+100591	0	0	kap02	Sgr
+100435	0	0	     	Vul
+100751	0	0	alf  	Pav
+100221	0	0	     	Dra
+100453	0	0	gam  	Cyg
+100261	0	0	AC   	Dra
+100587	0	0	     	Cyg
+100881	0	0	pi.  	Cap
+100977	0	0	     	Aql
+101027	0	0	rho  	Cap
+100907	0	0	     	Cyg
+100859	0	0	     	Cyg
+101120	0	0	omi  	Cap
+101123	0	0	omi  	Cap
+101101	0	0	     	Aql
+101076	0	0	     	Cyg
+101067	0	0	     	Cyg
+101160	0	0	     	Del
+101138	0	0	ome01	Cyg
+101477	0	0	nu.  	Mic
+101214	0	0	     	Cyg
+101612	0	0	phi01	Pav
+101093	0	0	the  	Cep
+101243	0	0	ome02	Cyg
+101421	0	0	eps  	Del
+101483	0	0	eta  	Del
+101773	0	0	rho  	Pav
+102162	0	0	mu.01	Oct
+102125	0	0	mu.02	Oct
+101474	0	0	     	Cyg
+101772	0	0	alf  	Ind
+101589	0	0	zet  	Del
+101692	0	0	     	Aql
+101751	0	0	tau01	Cap
+101641	0	0	     	Vul
+101983	0	0	phi02	Pav
+101260	0	0	     	Dra
+101716	0	0	     	Vul
+102157	0	0	ups  	Pav
+101769	0	0	bet  	Del
+101800	0	0	iot  	Del
+101847	0	0	l    	Aql
+101765	0	0	     	Cyg
+101923	0	0	tau  	Cap
+101867	0	0	     	Vul
+101882	0	0	the  	Del
+101868	0	0	     	Vul
+101916	0	0	kap  	Del
+101936	0	0	     	Aqr
+101984	0	0	ups  	Cap
+100965	0	0	     	Dra
+101958	0	0	alf  	Del
+101082	0	0	     	Dra
+102395	0	0	bet  	Pav
+102080	0	0	     	Del
+102333	0	0	eta  	Ind
+102066	0	0	     	Cyg
+102098	0	0	alf  	Cyg
+102281	0	0	del  	Del
+102177	0	0	     	Cyg
+102276	0	0	X    	Cyg
+102773	0	0	sig  	Pav
+102485	0	0	psi  	Cap
+102487	0	0	     	Cap
+102388	0	0	     	Vul
+102440	0	0	U    	Del
+102453	0	0	     	Cyg
+102693	0	0	iot  	Mic
+102253	0	0	     	Cep
+102531	0	0	gam01	Del
+102532	0	0	gam02	Del
+102488	0	0	eps  	Cyg
+102618	0	0	eps  	Aqr
+102624	0	0	k    	Aqr
+102790	0	0	zet  	Ind
+102633	0	0	     	Del
+102431	0	0	ups01	Cep
+102571	0	0	T    	Cyg
+102422	0	0	eta  	Cep
+102589	0	0	lam  	Cyg
+102831	0	0	alf  	Mic
+102950	0	0	iot  	Ind
+102805	0	0	     	Del
+102819	0	0	     	Del
+102724	0	0	     	Cyg
+102989	0	0	bet  	Mic
+102978	0	0	ome  	Cap
+102945	0	0	     	Aqr
+102843	0	0	     	Cyg
+103005	0	0	     	Aqr
+103227	0	0	bet  	Ind
+102949	0	0	T    	Vul
+103045	0	0	mu.  	Aqr
+103004	0	0	     	Vul
+103226	0	0	     	Cap
+103089	0	0	     	Cyg
+102208	0	0	     	Dra
+103191	0	0	BW   	Vul
+103200	0	0	     	Vul
+103294	0	0	     	Del
+103298	0	0	     	Del
+103401	0	0	     	Aqr
+104043	0	0	alf  	Oct
+103413	0	0	nu.  	Cyg
+103527	0	0	     	Del
+103511	0	0	     	Vul
+103616	0	0	     	Cap
+103569	0	0	eps  	Equ
+103738	0	0	gam  	Mic
+103682	0	0	     	Aqr
+103632	0	0	f01  	Cyg
+103882	0	0	zet  	Mic
+103813	0	0	lam  	Equ
+103732	0	0	     	Cyg
+104085	0	0	mu.  	Ind
+103981	0	0	     	Aqr
+104019	0	0	eta  	Cap
+104031	0	0	     	Equ
+104177	0	0	eta  	Mic
+104148	0	0	del  	Mic
+104139	0	0	the  	Cap
+104174	0	0	     	PsA
+104101	0	0	     	Equ
+104060	0	0	ksi  	Cyg
+104234	0	0	A    	Cap
+104185	0	0	DT   	Cyg
+104214	0	0	     	Cyg
+104217	0	0	     	Cyg
+104365	0	0	chi  	Cap
+104194	0	0	f02  	Cyg
+104452	0	0	     	Cap
+104755	0	0	omi  	Pav
+104459	0	0	nu.  	Aqr
+104371	0	0	V389 	Cyg
+104521	0	0	gam  	Equ
+104538	0	0	     	Equ
+104750	0	0	     	PsA
+104105	0	0	     	Dra
+104732	0	0	zet  	Cyg
+104858	0	0	del  	Equ
+104963	0	0	phi  	Cap
+104974	0	0	     	Cap
+104887	0	0	tau  	Cyg
+104987	0	0	alf  	Equ
+105140	0	0	eps  	Mic
+105143	0	0	     	Cap
+105168	0	0	     	Cap
+105319	0	0	the  	Ind
+105164	0	0	     	Aqr
+105102	0	0	sig  	Cyg
+105138	0	0	ups  	Cyg
+105382	0	0	the01	Mic
+105186	0	0	A    	Cyg
+105678	0	0	Y    	Pav
+105412	0	0	     	Aqr
+105199	0	0	alf  	Cep
+105413	0	0	     	Equ
+105411	0	0	     	Vul
+105515	0	0	iot  	Cap
+105268	0	0	     	Cep
+105502	0	0	     	Peg
+105574	0	0	     	Aqr
+105570	0	0	bet  	Equ
+105696	0	0	the02	Mic
+105858	0	0	gam  	Pav
+105665	0	0	     	Cap
+105668	0	0	     	Aqr
+105841	0	0	gam  	Ind
+105729	0	0	     	Aqr
+105761	0	0	     	Aqr
+106044	0	0	SX   	Pav
+105767	0	0	     	Aqr
+105881	0	0	zet  	Cap
+105928	0	0	     	Cap
+105811	0	0	     	Cyg
+106039	0	0	b    	Cap
+106067	0	0	     	PsA
+105942	0	0	     	Cyg
+105966	0	0	     	Vul
+106140	0	0	     	Peg
+105972	0	0	     	Cep
+106093	0	0	g    	Cyg
+106327	0	0	ksi  	Gru
+106340	0	0	     	PsA
+106278	0	0	bet  	Aqr
+106032	0	0	bet  	Cep
+106559	0	0	     	Cap
+106481	0	0	rho  	Cyg
+106654	0	0	     	PsA
+107089	0	0	nu.  	Oct
+106551	0	0	     	Cyg
+106703	0	0	     	PsA
+106723	0	0	eps  	Cap
+106642	0	0	W    	Cyg
+106786	0	0	ksi  	Aqr
+106783	0	0	     	Peg
+106711	0	0	     	Cyg
+106787	0	0	     	Peg
+106856	0	0	     	Peg
+106752	0	0	CP   	Cyg
+106942	0	0	     	Aqr
+106944	0	0	d    	Aqr
+106985	0	0	gam  	Cap
+106801	0	0	     	Cep
+107843	0	0	lam  	Oct
+107095	0	0	     	Cap
+106999	0	0	     	Cyg
+107128	0	0	     	Cap
+107144	0	0	     	Aqr
+107188	0	0	kap  	Cap
+107151	0	0	     	Peg
+107097	0	0	     	Cyg
+107232	0	0	     	Cap
+107129	0	0	V460 	Cyg
+107162	0	0	     	Cyg
+107136	0	0	pi.01	Cyg
+107302	0	0	     	Cap
+107380	0	0	iot  	PsA
+107253	0	0	     	Cyg
+107315	0	0	eps  	Peg
+107310	0	0	mu.01	Cyg
+107382	0	0	c    	Cap
+107348	0	0	     	Peg
+107354	0	0	kap  	Peg
+107259	0	0	mu.  	Cep
+107119	0	0	     	Cep
+107487	0	0	     	Cap
+107517	0	0	lam  	Cap
+107472	0	0	     	Peg
+107556	0	0	del  	Cap
+107230	0	0	     	Dra
+107608	0	0	the  	PsA
+107575	0	0	     	Peg
+107835	0	0	omi  	Ind
+107418	0	0	nu.  	Cep
+107533	0	0	pi.02	Cyg
+107586	0	0	     	Cep
+107763	0	0	     	Peg
+107788	0	0	     	Peg
+108036	0	0	mu.  	Cap
+108085	0	0	gam  	Gru
+107975	0	0	     	Peg
+108022	0	0	     	Peg
+108281	0	0	pi.  	Ind
+108431	0	0	del  	Ind
+108478	0	0	kap  	Ind
+108165	0	0	     	Cep
+108339	0	0	     	Peg
+108317	0	0	VV   	Cep
+108612	0	0	     	Peg
+108661	0	0	eta  	PsA
+108870	0	0	eps  	Ind
+108691	0	0	     	Aqr
+108693	0	0	     	Peg
+108699	0	0	     	Peg
+108797	0	0	     	Aqr
+108535	0	0	     	Cep
+108868	0	0	     	Aqr
+108874	0	0	omi  	Aqr
+108875	0	0	     	Peg
+108952	0	0	     	PsA
+108772	0	0	     	Cep
+109081	0	0	kap  	Ind
+108991	0	0	     	Aqr
+109111	0	0	lam  	Gru
+108925	0	0	     	Cep
+109068	0	0	nu.  	Peg
+109074	0	0	alf  	Aqr
+108924	0	0	     	Cep
+108917	0	0	ksi  	Cep
+109139	0	0	iot  	Aqr
+109056	0	0	     	Peg
+109268	0	0	alf  	Gru
+109005	0	0	     	Cep
+109017	0	0	     	Cep
+109176	0	0	iot  	Peg
+109285	0	0	mu.  	PsA
+109289	0	0	ups  	PsA
+109240	0	0	     	Peg
+109332	0	0	     	Aqr
+109422	0	0	tau  	PsA
+109303	0	0	AR   	Lac
+109352	0	0	pi.01	Peg
+109427	0	0	the  	Peg
+109460	0	0	     	Aqr
+109472	0	0	e    	Aqr
+109410	0	0	pi.  	Peg
+109458	0	0	     	Peg
+109624	0	0	     	Aqr
+109492	0	0	zet  	Cep
+109400	0	0	     	Cep
+109556	0	0	lam  	Cep
+110078	0	0	psi  	Oct
+109789	0	0	lam  	PsA
+109786	0	0	     	Aqr
+110256	0	0	eps  	Oct
+109908	0	0	mu.01	Gru
+109973	0	0	mu.02	Gru
+109857	0	0	eps  	Cep
+110000	0	0	     	Aqr
+109937	0	0	     	Lac
+110003	0	0	the  	Aqr
+110130	0	0	alf  	Tuc
+110023	0	0	     	Aqr
+111196	0	0	ups  	Oct
+110179	0	0	     	Aqr
+110103	0	0	     	Cep
+110273	0	0	rho  	Aqr
+110298	0	0	     	Peg
+110618	0	0	nu.  	Ind
+110391	0	0	     	Aqr
+110395	0	0	gam  	Aqr
+110386	0	0	     	Peg
+110478	0	0	pi.01	Gru
+110371	0	0	     	Peg
+110351	0	0	     	Lac
+110506	0	0	pi.02	Gru
+110529	0	0	     	Aqr
+110548	0	0	     	Peg
+110578	0	0	     	Aqr
+110602	0	0	     	Aqr
+110504	0	0	RW   	Cep
+110538	0	0	bet  	Lac
+110672	0	0	pi.  	Aqr
+110838	0	0	del  	Tuc
+110609	0	0	     	Lac
+110778	0	0	f    	Aqr
+110785	0	0	     	Peg
+110882	0	0	     	Peg
+110936	0	0	nu.  	Gru
+110997	0	0	del01	Gru
+110960	0	0	zet01	Aqr
+111043	0	0	del02	Gru
+110817	0	0	     	Cep
+110986	0	0	     	Peg
+111062	0	0	     	Peg
+111086	0	0	     	Aqr
+111138	0	0	zet  	PsA
+110991	0	0	del  	Cep
+110988	0	0	del  	Cep
+111022	0	0	     	Lac
+111123	0	0	sig  	Aqr
+111068	0	0	     	Peg
+111188	0	0	bet  	PsA
+110787	0	0	     	Cep
+111104	0	0	     	Lac
+111310	0	0	nu.  	Tuc
+111200	0	0	     	Aqr
+111169	0	0	alf  	Lac
+111278	0	0	     	Peg
+111394	0	0	     	Aqr
+111056	0	0	rho  	Cep
+111449	0	0	ups  	Aqr
+111497	0	0	eta  	Aqr
+111594	0	0	sig01	Gru
+111643	0	0	sig02	Gru
+111546	0	0	     	Lac
+111544	0	0	     	Lac
+111710	0	0	kap  	Aqr
+111674	0	0	     	Lac
+111532	0	0	     	Cep
+111810	0	0	     	Peg
+111841	0	0	     	Lac
+111884	0	0	     	Peg
+111797	0	0	     	Cep
+111954	0	0	eps  	PsA
+112405	0	0	bet  	Oct
+111944	0	0	     	Lac
+112029	0	0	zet  	Peg
+112122	0	0	bet  	Gru
+112102	0	0	     	PsA
+112031	0	0	     	Lac
+112051	0	0	omi  	Peg
+112203	0	0	rho  	Gru
+112179	0	0	     	Aqr
+112211	0	0	g    	Aqr
+112158	0	0	eta  	Peg
+112374	0	0	eta  	Gru
+112242	0	0	     	Lac
+112358	0	0	     	Peg
+112781	0	0	ksi  	Oct
+112447	0	0	ksi  	Peg
+112440	0	0	lam  	Peg
+112529	0	0	     	Aqr
+112542	0	0	tau01	Aqr
+112623	0	0	eps  	Gru
+112615	0	0	     	Aqr
+112716	0	0	tau02	Aqr
+112748	0	0	mu.  	Peg
+112778	0	0	     	Lac
+112862	0	0	     	PsA
+112724	0	0	iot  	Cep
+112948	0	0	gam  	PsA
+112935	0	0	sig  	Peg
+112961	0	0	lam  	Aqr
+112917	0	0	     	Lac
+113044	0	0	tau01	Gru
+113137	0	0	rho  	Ind
+113031	0	0	     	Aqr
+113136	0	0	del  	Aqr
+113127	0	0	     	Aqr
+113148	0	0	     	Aqr
+113191	0	0	tau02	Gru
+113190	0	0	tau02	Gru
+113167	0	0	     	Psc
+113186	0	0	rho  	Peg
+113246	0	0	del  	PsA
+113307	0	0	tau03	Gru
+113281	0	0	     	Lac
+113368	0	0	alf  	PsA
+113357	0	0	     	Peg
+113327	0	0	EW   	Lac
+113503	0	0	     	Peg
+113521	0	0	     	Psc
+113638	0	0	zet  	Gru
+113610	0	0	     	Psc
+113674	0	0	     	Aqr
+113726	0	0	omi  	And
+113781	0	0	     	Aqr
+113788	0	0	     	And
+113860	0	0	pi.  	PsA
+113889	0	0	bet  	Psc
+113957	0	0	kap  	Gru
+113881	0	0	bet  	Peg
+113919	0	0	     	And
+113963	0	0	alf  	Peg
+113996	0	0	h    	Aqr
+114131	0	0	the  	Gru
+114119	0	0	c01  	Aqr
+114132	0	0	ups  	Gru
+114144	0	0	     	Peg
+114155	0	0	     	Peg
+114104	0	0	     	Cas
+114200	0	0	     	And
+114210	0	0	     	And
+114273	0	0	A    	Psc
+114341	0	0	c02  	Aqr
+114347	0	0	     	Peg
+114375	0	0	c03  	Aqr
+114222	0	0	pi.  	Cep
+114421	0	0	iot  	Gru
+114389	0	0	     	Peg
+114365	0	0	     	Cas
+114430	0	0	     	And
+114520	0	0	     	Peg
+114526	0	0	     	Peg
+114570	0	0	     	And
+114724	0	0	phi  	Aqr
+114855	0	0	psi01	Aqr
+114844	0	0	     	Peg
+114996	0	0	gam  	Tuc
+114939	0	0	chi  	Aqr
+114971	0	0	gam  	Psc
+115033	0	0	psi02	Aqr
+115054	0	0	phi  	Gru
+115022	0	0	     	And
+115836	0	0	tau  	Oct
+115102	0	0	gam  	Scl
+115065	0	0	     	And
+115115	0	0	psi03	Aqr
+115126	0	0	     	Aqr
+115142	0	0	     	Aqr
+115088	0	0	omi  	Cep
+115152	0	0	     	And
+115191	0	0	     	And
+115227	0	0	b    	Psc
+115250	0	0	tau  	Peg
+115271	0	0	     	Peg
+115280	0	0	     	And
+115355	0	0	     	Peg
+115404	0	0	     	Aqr
+115407	0	0	     	Peg
+115438	0	0	b01  	Aqr
+115444	0	0	     	Peg
+115591	0	0	     	Peg
+115590	0	0	     	Cas
+115623	0	0	ups  	Peg
+115669	0	0	b02  	Aqr
+115713	0	0	omi  	Gru
+115738	0	0	kap  	Psc
+115768	0	0	     	Psc
+115755	0	0	     	And
+115806	0	0	     	Peg
+115830	0	0	the  	Psc
+115919	0	0	     	Peg
+115990	0	0	AR   	Cas
+116076	0	0	     	And
+116118	0	0	     	Aqr
+116146	0	0	     	Psc
+116231	0	0	bet  	Scl
+116247	0	0	b03  	Aqr
+116264	0	0	     	Peg
+116310	0	0	     	Peg
+116323	0	0	     	Psc
+116354	0	0	     	And
+116355	0	0	     	Peg
+116389	0	0	iot  	Phe
+116422	0	0	     	Psc
+116495	0	0	     	Psc
+116592	0	0	     	Peg
+116584	0	0	lam  	And
+116611	0	0	     	Peg
+116631	0	0	iot  	And
+116737	0	0	the  	Phe
+116709	0	0	     	And
+116758	0	0	ome01	Aqr
+116771	0	0	iot  	Psc
+116727	0	0	gam  	Cep
+116820	0	0	mu.  	Scl
+116805	0	0	kap  	And
+116889	0	0	A01  	Aqr
+116904	0	0	A02  	Aqr
+116901	0	0	A02  	Aqr
+116928	0	0	lam  	Psc
+116971	0	0	ome02	Aqr
+116972	0	0	     	Peg
+117020	0	0	     	Peg
+117073	0	0	     	Peg
+117089	0	0	i01  	Aqr
+117218	0	0	i02  	Aqr
+117221	0	0	psi  	And
+117245	0	0	TX   	Psc
+117315	0	0	sig  	Phe
+117301	0	0	tau  	Cas
+117375	0	0	     	Psc
+117452	0	0	del  	Scl
+117447	0	0	     	Cas
+117491	0	0	     	Psc
+117500	0	0	     	Peg
+117628	0	0	     	Peg
+117629	0	0	i03  	Aqr
+117689	0	0	gam01	Oct
+117683	0	0	     	Psc
+117718	0	0	phi  	Peg
+117730	0	0	     	Peg
+117756	0	0	h    	Aqr
+117761	0	0	     	Psc
+117774	0	0	     	Psc
+117863	0	0	rho  	Cas
+117927	0	0	     	Psc
+117957	0	0	V373 	Cas
+118027	0	0	V    	Cep
+118114	0	0	gam02	Oct
+118121	0	0	eta  	Tuc
+118131	0	0	psi  	Peg
+118178	0	0	     	Cet
+118209	0	0	     	Psc
+118234	0	0	pi.  	Phe
+118243	0	0	sig  	Cas
+118268	0	0	ome  	Psc
+118322	0	0	eps  	Tuc
+63	0	0	CG   	And
+88	0	0	tau  	Phe
+122	0	0	the  	Oct
+145	0	0	     	Psc
+171	0	0	     	Peg
+154	0	0	     	Psc
+183	0	0	zet  	Scl
+186	0	0	     	Psc
+194	0	0	c    	Psc
+301	0	0	     	Cet
+330	0	0	     	Cas
+355	0	0	     	Cet
+30756	0	0	     	Gem
